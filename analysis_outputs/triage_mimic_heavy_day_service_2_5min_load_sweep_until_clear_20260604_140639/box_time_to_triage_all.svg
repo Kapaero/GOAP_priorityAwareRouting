@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="640.00" y="32.00" font-family="Arial, sans-serif" font-size="21" fill="#222" text-anchor="middle" font-weight="bold">Time to triage start, all patients</text>
+<text x="24.00" y="370.00" font-family="Arial, sans-serif" font-size="13" fill="#222" text-anchor="middle" font-weight="normal">minutes</text>
+<line x1="66.00" y1="670.00" x2="1252.00" y2="670.00" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="674.00" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">0</text>
+<line x1="66.00" y1="556.26" x2="1252.00" y2="556.26" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="560.26" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">6</text>
+<line x1="66.00" y1="442.52" x2="1252.00" y2="442.52" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="446.52" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">12</text>
+<line x1="66.00" y1="328.78" x2="1252.00" y2="328.78" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="332.78" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">18</text>
+<line x1="66.00" y1="215.03" x2="1252.00" y2="215.03" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="219.03" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">24</text>
+<line x1="66.00" y1="101.29" x2="1252.00" y2="101.29" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62.00" y="105.29" font-family="Arial, sans-serif" font-size="11" fill="#555" text-anchor="end" font-weight="normal">30</text>
+<line x1="72.00" y1="385.65" x2="1252.00" y2="385.65" stroke="#C44" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="1248.00" y="379.65" font-family="Arial, sans-serif" font-size="12" fill="#A33" text-anchor="end" font-weight="bold">15 min limit</text>
+<line x1="72.00" y1="70.00" x2="72.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<line x1="346.00" y1="70.00" x2="346.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<text x="209.00" y="54.00" font-family="Arial, sans-serif" font-size="14" fill="#222" text-anchor="middle" font-weight="bold">Load x2.00</text>
+<line x1="126.80" y1="660.95" x2="126.80" y2="415.64" stroke="#4E79A7" stroke-width="2"/>
+<line x1="115.40" y1="660.95" x2="138.20" y2="660.95" stroke="#4E79A7" stroke-width="2"/>
+<line x1="115.40" y1="415.64" x2="138.20" y2="415.64" stroke="#4E79A7" stroke-width="2"/>
+<rect x="107.80" y="463.05" width="38.00" height="191.35" fill="#4E79A7" stroke="#4E79A7" stroke-width="1" opacity="0.24"/>
+<line x1="107.80" y1="630.83" x2="145.80" y2="630.83" stroke="#4E79A7" stroke-width="3"/>
+<text x="126.80" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">FSM</text>
+<line x1="181.60" y1="660.97" x2="181.60" y2="425.12" stroke="#F28E2B" stroke-width="2"/>
+<line x1="170.20" y1="660.97" x2="193.00" y2="660.97" stroke="#F28E2B" stroke-width="2"/>
+<line x1="170.20" y1="425.12" x2="193.00" y2="425.12" stroke="#F28E2B" stroke-width="2"/>
+<rect x="162.60" y="470.83" width="38.00" height="181.55" fill="#F28E2B" stroke="#F28E2B" stroke-width="1" opacity="0.24"/>
+<line x1="162.60" y1="626.45" x2="200.60" y2="626.45" stroke="#F28E2B" stroke-width="3"/>
+<text x="181.60" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Priority</text>
+<line x1="236.40" y1="661.15" x2="236.40" y2="408.37" stroke="#59A14F" stroke-width="2"/>
+<line x1="225.00" y1="661.15" x2="247.80" y2="661.15" stroke="#59A14F" stroke-width="2"/>
+<line x1="225.00" y1="408.37" x2="247.80" y2="408.37" stroke="#59A14F" stroke-width="2"/>
+<rect x="217.40" y="462.47" width="38.00" height="191.19" fill="#59A14F" stroke="#59A14F" stroke-width="1" opacity="0.24"/>
+<line x1="217.40" y1="628.29" x2="255.40" y2="628.29" stroke="#59A14F" stroke-width="3"/>
+<text x="236.40" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Decision</text>
+<line x1="291.20" y1="660.45" x2="291.20" y2="320.21" stroke="#E15759" stroke-width="2"/>
+<line x1="279.80" y1="660.45" x2="302.60" y2="660.45" stroke="#E15759" stroke-width="2"/>
+<line x1="279.80" y1="320.21" x2="302.60" y2="320.21" stroke="#E15759" stroke-width="2"/>
+<rect x="272.20" y="416.48" width="38.00" height="232.86" fill="#E15759" stroke="#E15759" stroke-width="1" opacity="0.24"/>
+<line x1="272.20" y1="616.76" x2="310.20" y2="616.76" stroke="#E15759" stroke-width="3"/>
+<text x="291.20" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Proposed</text>
+<line x1="374.00" y1="70.00" x2="374.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<line x1="648.00" y1="70.00" x2="648.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<text x="511.00" y="54.00" font-family="Arial, sans-serif" font-size="14" fill="#222" text-anchor="middle" font-weight="bold">Load x1.50</text>
+<line x1="428.80" y1="660.28" x2="428.80" y2="298.45" stroke="#4E79A7" stroke-width="2"/>
+<line x1="417.40" y1="660.28" x2="440.20" y2="660.28" stroke="#4E79A7" stroke-width="2"/>
+<line x1="417.40" y1="298.45" x2="440.20" y2="298.45" stroke="#4E79A7" stroke-width="2"/>
+<rect x="409.80" y="382.28" width="38.00" height="269.59" fill="#4E79A7" stroke="#4E79A7" stroke-width="1" opacity="0.24"/>
+<line x1="409.80" y1="580.64" x2="447.80" y2="580.64" stroke="#4E79A7" stroke-width="3"/>
+<text x="428.80" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">FSM</text>
+<line x1="483.60" y1="661.23" x2="483.60" y2="284.31" stroke="#F28E2B" stroke-width="2"/>
+<line x1="472.20" y1="661.23" x2="495.00" y2="661.23" stroke="#F28E2B" stroke-width="2"/>
+<line x1="472.20" y1="284.31" x2="495.00" y2="284.31" stroke="#F28E2B" stroke-width="2"/>
+<rect x="464.60" y="365.52" width="38.00" height="282.82" fill="#F28E2B" stroke="#F28E2B" stroke-width="1" opacity="0.24"/>
+<line x1="464.60" y1="561.87" x2="502.60" y2="561.87" stroke="#F28E2B" stroke-width="3"/>
+<text x="483.60" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Priority</text>
+<line x1="538.40" y1="660.91" x2="538.40" y2="310.90" stroke="#59A14F" stroke-width="2"/>
+<line x1="527.00" y1="660.91" x2="549.80" y2="660.91" stroke="#59A14F" stroke-width="2"/>
+<line x1="527.00" y1="310.90" x2="549.80" y2="310.90" stroke="#59A14F" stroke-width="2"/>
+<rect x="519.40" y="384.93" width="38.00" height="266.81" fill="#59A14F" stroke="#59A14F" stroke-width="1" opacity="0.24"/>
+<line x1="519.40" y1="581.67" x2="557.40" y2="581.67" stroke="#59A14F" stroke-width="3"/>
+<text x="538.40" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Decision</text>
+<line x1="593.20" y1="660.24" x2="593.20" y2="216.81" stroke="#E15759" stroke-width="2"/>
+<line x1="581.80" y1="660.24" x2="604.60" y2="660.24" stroke="#E15759" stroke-width="2"/>
+<line x1="581.80" y1="216.81" x2="604.60" y2="216.81" stroke="#E15759" stroke-width="2"/>
+<rect x="574.20" y="359.28" width="38.00" height="287.56" fill="#E15759" stroke="#E15759" stroke-width="1" opacity="0.24"/>
+<line x1="574.20" y1="566.18" x2="612.20" y2="566.18" stroke="#E15759" stroke-width="3"/>
+<text x="593.20" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Proposed</text>
+<line x1="676.00" y1="70.00" x2="676.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<line x1="950.00" y1="70.00" x2="950.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<text x="813.00" y="54.00" font-family="Arial, sans-serif" font-size="14" fill="#222" text-anchor="middle" font-weight="bold">Load x1.25</text>
+<line x1="730.80" y1="661.13" x2="730.80" y2="229.54" stroke="#4E79A7" stroke-width="2"/>
+<line x1="719.40" y1="661.13" x2="742.20" y2="661.13" stroke="#4E79A7" stroke-width="2"/>
+<line x1="719.40" y1="229.54" x2="742.20" y2="229.54" stroke="#4E79A7" stroke-width="2"/>
+<rect x="711.80" y="333.55" width="38.00" height="317.54" fill="#4E79A7" stroke="#4E79A7" stroke-width="1" opacity="0.24"/>
+<line x1="711.80" y1="522.78" x2="749.80" y2="522.78" stroke="#4E79A7" stroke-width="3"/>
+<text x="730.80" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">FSM</text>
+<line x1="785.60" y1="661.80" x2="785.60" y2="240.16" stroke="#F28E2B" stroke-width="2"/>
+<line x1="774.20" y1="661.80" x2="797.00" y2="661.80" stroke="#F28E2B" stroke-width="2"/>
+<line x1="774.20" y1="240.16" x2="797.00" y2="240.16" stroke="#F28E2B" stroke-width="2"/>
+<rect x="766.60" y="334.38" width="38.00" height="316.32" fill="#F28E2B" stroke="#F28E2B" stroke-width="1" opacity="0.24"/>
+<line x1="766.60" y1="496.20" x2="804.60" y2="496.20" stroke="#F28E2B" stroke-width="3"/>
+<text x="785.60" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Priority</text>
+<line x1="840.40" y1="661.07" x2="840.40" y2="218.39" stroke="#59A14F" stroke-width="2"/>
+<line x1="829.00" y1="661.07" x2="851.80" y2="661.07" stroke="#59A14F" stroke-width="2"/>
+<line x1="829.00" y1="218.39" x2="851.80" y2="218.39" stroke="#59A14F" stroke-width="2"/>
+<rect x="821.40" y="324.81" width="38.00" height="326.48" fill="#59A14F" stroke="#59A14F" stroke-width="1" opacity="0.24"/>
+<line x1="821.40" y1="490.04" x2="859.40" y2="490.04" stroke="#59A14F" stroke-width="3"/>
+<text x="840.40" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Decision</text>
+<line x1="895.20" y1="659.70" x2="895.20" y2="193.33" stroke="#E15759" stroke-width="2"/>
+<line x1="883.80" y1="659.70" x2="906.60" y2="659.70" stroke="#E15759" stroke-width="2"/>
+<line x1="883.80" y1="193.33" x2="906.60" y2="193.33" stroke="#E15759" stroke-width="2"/>
+<rect x="876.20" y="315.56" width="38.00" height="323.94" fill="#E15759" stroke="#E15759" stroke-width="1" opacity="0.24"/>
+<line x1="876.20" y1="463.57" x2="914.20" y2="463.57" stroke="#E15759" stroke-width="3"/>
+<text x="895.20" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Proposed</text>
+<line x1="978.00" y1="70.00" x2="978.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<line x1="1252.00" y1="70.00" x2="1252.00" y2="670.00" stroke="#CCCCCC" stroke-width="1"/>
+<text x="1115.00" y="54.00" font-family="Arial, sans-serif" font-size="14" fill="#222" text-anchor="middle" font-weight="bold">Load x1.00</text>
+<line x1="1032.80" y1="660.57" x2="1032.80" y2="114.44" stroke="#4E79A7" stroke-width="2"/>
+<line x1="1021.40" y1="660.57" x2="1044.20" y2="660.57" stroke="#4E79A7" stroke-width="2"/>
+<line x1="1021.40" y1="114.44" x2="1044.20" y2="114.44" stroke="#4E79A7" stroke-width="2"/>
+<rect x="1013.80" y="248.65" width="38.00" height="393.63" fill="#4E79A7" stroke="#4E79A7" stroke-width="1" opacity="0.24"/>
+<line x1="1013.80" y1="420.27" x2="1051.80" y2="420.27" stroke="#4E79A7" stroke-width="3"/>
+<text x="1032.80" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">FSM</text>
+<line x1="1087.60" y1="660.92" x2="1087.60" y2="166.42" stroke="#F28E2B" stroke-width="2"/>
+<line x1="1076.20" y1="660.92" x2="1099.00" y2="660.92" stroke="#F28E2B" stroke-width="2"/>
+<line x1="1076.20" y1="166.42" x2="1099.00" y2="166.42" stroke="#F28E2B" stroke-width="2"/>
+<rect x="1068.60" y="280.52" width="38.00" height="366.94" fill="#F28E2B" stroke="#F28E2B" stroke-width="1" opacity="0.24"/>
+<line x1="1068.60" y1="439.88" x2="1106.60" y2="439.88" stroke="#F28E2B" stroke-width="3"/>
+<text x="1087.60" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Priority</text>
+<line x1="1142.40" y1="660.13" x2="1142.40" y2="135.52" stroke="#59A14F" stroke-width="2"/>
+<line x1="1131.00" y1="660.13" x2="1153.80" y2="660.13" stroke="#59A14F" stroke-width="2"/>
+<line x1="1131.00" y1="135.52" x2="1153.80" y2="135.52" stroke="#59A14F" stroke-width="2"/>
+<rect x="1123.40" y="254.20" width="38.00" height="390.68" fill="#59A14F" stroke="#59A14F" stroke-width="1" opacity="0.24"/>
+<line x1="1123.40" y1="437.71" x2="1161.40" y2="437.71" stroke="#59A14F" stroke-width="3"/>
+<text x="1142.40" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Decision</text>
+<line x1="1197.20" y1="660.98" x2="1197.20" y2="154.57" stroke="#E15759" stroke-width="2"/>
+<line x1="1185.80" y1="660.98" x2="1208.60" y2="660.98" stroke="#E15759" stroke-width="2"/>
+<line x1="1185.80" y1="154.57" x2="1208.60" y2="154.57" stroke="#E15759" stroke-width="2"/>
+<rect x="1178.20" y="291.61" width="38.00" height="353.37" fill="#E15759" stroke="#E15759" stroke-width="1" opacity="0.24"/>
+<line x1="1178.20" y1="447.56" x2="1216.20" y2="447.56" stroke="#E15759" stroke-width="3"/>
+<text x="1197.20" y="688.00" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle" font-weight="normal">Proposed</text>
+<rect x="72.00" y="711.00" width="14.00" height="14.00" fill="#4E79A7" stroke="#4E79A7" stroke-width="1" opacity="0.5"/>
+<text x="92.00" y="722.00" font-family="Arial, sans-serif" font-size="12" fill="#222" text-anchor="start" font-weight="normal">FSM</text>
+<rect x="242.00" y="711.00" width="14.00" height="14.00" fill="#F28E2B" stroke="#F28E2B" stroke-width="1" opacity="0.5"/>
+<text x="262.00" y="722.00" font-family="Arial, sans-serif" font-size="12" fill="#222" text-anchor="start" font-weight="normal">Priority</text>
+<rect x="412.00" y="711.00" width="14.00" height="14.00" fill="#59A14F" stroke="#59A14F" stroke-width="1" opacity="0.5"/>
+<text x="432.00" y="722.00" font-family="Arial, sans-serif" font-size="12" fill="#222" text-anchor="start" font-weight="normal">Decision</text>
+<rect x="582.00" y="711.00" width="14.00" height="14.00" fill="#E15759" stroke="#E15759" stroke-width="1" opacity="0.5"/>
+<text x="602.00" y="722.00" font-family="Arial, sans-serif" font-size="12" fill="#222" text-anchor="start" font-weight="normal">Proposed</text>
+</svg>

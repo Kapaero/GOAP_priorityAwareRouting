@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+</marker>
+<filter id="softShadow" x="-8%" y="-8%" width="116%" height="126%">
+<feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="700.0" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1F2937">Proposed Environment-Mediated GOAP Architecture</text>
+<rect x="55.0" y="85.0" width="1290.0" height="165.0" rx="14" fill="#F8FAFC" stroke="#2F6FA3" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="73.0" y="111.0" text-anchor="start" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2F6FA3">Agent planning layer</text>
+<rect x="55.0" y="290.0" width="1290.0" height="185.0" rx="14" fill="#F8FAFC" stroke="#C85A54" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="73.0" y="316.0" text-anchor="start" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#C85A54">Environment mediation layer</text>
+<rect x="55.0" y="515.0" width="1290.0" height="165.0" rx="14" fill="#F8FAFC" stroke="#D98C28" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="73.0" y="541.0" text-anchor="start" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#D98C28">Transport resource layer</text>
+<rect x="105.0" y="125.0" width="245.0" height="90.0" rx="10" fill="#F3F8FF" stroke="#2F6FA3" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="105.0" y="125.0" width="245.0" height="38" rx="10" fill="#2F6FA3"/>
+<text x="227.5" y="150.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Patient Agents</text>
+<text x="227.5" y="173.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="227.5" dy="0">local beliefs</tspan>
+<tspan x="227.5" dy="17">current goal</tspan>
+<tspan x="227.5" dy="17">reserved resources</tspan>
+</text>
+<rect x="450.0" y="125.0" width="245.0" height="90.0" rx="10" fill="#F3F8FF" stroke="#4E79A7" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="450.0" y="125.0" width="245.0" height="38" rx="10" fill="#4E79A7"/>
+<text x="572.5" y="150.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">GOAP Planner</text>
+<text x="572.5" y="181.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="572.5" dy="0">builds an action sequence from</tspan>
+<tspan x="572.5" dy="17">beliefs and world state</tspan>
+</text>
+<rect x="795.0" y="125.0" width="245.0" height="90.0" rx="10" fill="#F3F8FF" stroke="#4E79A7" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="795.0" y="125.0" width="245.0" height="38" rx="10" fill="#4E79A7"/>
+<text x="917.5" y="150.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Action Set</text>
+<text x="917.5" y="181.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="917.5" dy="0">movement, reservation, treatment</tspan>
+<tspan x="917.5" dy="17">and exit actions</tspan>
+</text>
+<rect x="1090.0" y="125.0" width="205.0" height="90.0" rx="10" fill="#FFF5F5" stroke="#C85A54" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="1090.0" y="125.0" width="205.0" height="38" rx="10" fill="#C85A54"/>
+<text x="1192.5" y="150.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Emergency Rollback</text>
+<text x="1192.5" y="173.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1192.5" dy="0">invalidates plan and</tspan>
+<tspan x="1192.5" dy="17">releases temporary</tspan>
+<tspan x="1192.5" dy="17">modifiers</tspan>
+</text>
+<rect x="105.0" y="335.0" width="245.0" height="100.0" rx="10" fill="#F3FBF5" stroke="#4F9D69" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="105.0" y="335.0" width="245.0" height="38" rx="10" fill="#4F9D69"/>
+<text x="227.5" y="360.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">World State Manager</text>
+<text x="227.5" y="388.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="227.5" dy="0">global state counter</tspan>
+<tspan x="227.5" dy="17">patient queue</tspan>
+<tspan x="227.5" dy="17">resource counts</tspan>
+</text>
+<rect x="450.0" y="335.0" width="245.0" height="100.0" rx="10" fill="#FFF5F5" stroke="#C85A54" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="450.0" y="335.0" width="245.0" height="38" rx="10" fill="#C85A54"/>
+<text x="572.5" y="360.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Target Availability</text>
+<text x="572.5" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="572.5" dy="0">corridor, wing and gate</tspan>
+<tspan x="572.5" dy="17">accessibility</tspan>
+</text>
+<rect x="795.0" y="335.0" width="245.0" height="100.0" rx="10" fill="#FFF5F5" stroke="#C85A54" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="795.0" y="335.0" width="245.0" height="38" rx="10" fill="#C85A54"/>
+<text x="917.5" y="360.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Flow Controller</text>
+<text x="917.5" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="917.5" dy="0">priority-aware gate policy and</tspan>
+<tspan x="917.5" dy="17">wing occupancy control</tspan>
+</text>
+<rect x="1090.0" y="335.0" width="205.0" height="100.0" rx="10" fill="#FBF7FF" stroke="#7A5DA8" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="1090.0" y="335.0" width="205.0" height="38" rx="10" fill="#7A5DA8"/>
+<text x="1192.5" y="360.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Metrics Logger</text>
+<text x="1192.5" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1192.5" dy="0">events, time series and</tspan>
+<tspan x="1192.5" dy="17">protocol outcomes</tspan>
+</text>
+<rect x="145.0" y="560.0" width="265.0" height="85.0" rx="10" fill="#FFF7ED" stroke="#D98C28" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="145.0" y="560.0" width="265.0" height="38" rx="10" fill="#D98C28"/>
+<text x="277.5" y="585.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Navigation Targets</text>
+<text x="277.5" y="613.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="277.5" dy="0">entrance, waiting room, wing and</tspan>
+<tspan x="277.5" dy="17">corridors</tspan>
+</text>
+<rect x="555.0" y="560.0" width="265.0" height="85.0" rx="10" fill="#FFF7ED" stroke="#D98C28" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="555.0" y="560.0" width="265.0" height="38" rx="10" fill="#D98C28"/>
+<text x="687.5" y="585.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Shared Resources</text>
+<text x="687.5" y="613.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="687.5" dy="0">left/right cubicles</tspan>
+<tspan x="687.5" dy="17">reservation pools</tspan>
+</text>
+<rect x="965.0" y="560.0" width="265.0" height="85.0" rx="10" fill="#FFF7ED" stroke="#D98C28" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="965.0" y="560.0" width="265.0" height="38" rx="10" fill="#D98C28"/>
+<text x="1097.5" y="585.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Physical Transport</text>
+<text x="1097.5" y="613.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1097.5" dy="0">NavMesh movement through</tspan>
+<tspan x="1097.5" dy="17">constrained space</tspan>
+</text>
+<line x1="350.0" y1="170.0" x2="450.0" y2="170.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="400.0" y="162.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">planning request</text>
+<line x1="695.0" y1="170.0" x2="795.0" y2="170.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="745.0" y="162.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">selected actions</text>
+<line x1="1040.0" y1="170.0" x2="1090.0" y2="170.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1065.0" y="162.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">failure</text>
+<polyline points="1192.0,215.0 1192.0,260.0 228.0,260.0 228.0,335.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="228.0" y="252.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">rollback</text>
+<line x1="228.0" y1="335.0" x2="228.0" y2="215.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="228.0" y="267.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">world snapshot</text>
+<line x1="572.0" y1="335.0" x2="572.0" y2="215.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="572.0" y="267.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">availability</text>
+<line x1="918.0" y1="335.0" x2="918.0" y2="215.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="918.0" y="267.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">gate policy</text>
+<line x1="1192.0" y1="435.0" x2="1192.0" y2="560.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<text x="1192.0" y="489.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">logs</text>
+<line x1="228.0" y1="435.0" x2="278.0" y2="560.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="253.0" y="489.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">state</text>
+<line x1="572.0" y1="435.0" x2="688.0" y2="560.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="630.0" y="489.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">active targets</text>
+<line x1="918.0" y1="435.0" x2="1098.0" y2="560.0" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1008.0" y="489.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">routing constraints</text>
+<polyline points="278.0,560.0 278.0,505.0 228.0,505.0 228.0,435.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<text x="228.0" y="497.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">updates</text>
+<polyline points="688.0,560.0 688.0,505.0 228.0,505.0 228.0,435.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<text x="228.0" y="497.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">resource counts</text>
+<polyline points="1098.0,560.0 1098.0,505.0 572.0,505.0 572.0,435.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<text x="572.0" y="497.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#64748B">blocked/open paths</text>
+<rect x="105.0" y="720.0" width="1190.0" height="58" rx="10" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="700.0" y="743.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#334155">
+<tspan x="700.0" dy="0">The planner produces local action sequences, but the environment controls which transport nodes and resources are currently accessible. When those conditions change, agents</tspan>
+<tspan x="700.0" dy="17">roll back temporary reservations and replan against the updated world state.</tspan>
+</text>
+</svg>

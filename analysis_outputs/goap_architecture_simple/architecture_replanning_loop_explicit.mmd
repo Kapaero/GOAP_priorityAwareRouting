@@ -1,0 +1,23 @@
+flowchart LR
+    Agent["Patient Agent<br/>goal, beliefs, current plan"]
+    Planner["GOAP Planner<br/>builds action sequence"]
+    Executor["Action Executor<br/>PrePerform / Move / PostPerform"]
+    Rollback["Emergency Rollback<br/>release reservations<br/>clear temporary modifiers"]
+    World["Shared World State<br/>queue, resources,<br/>world-change counter"]
+    Mediator["Environment Mediator<br/>observes queue/occupancy<br/>sets availability"]
+    Resources["Hospital Resources<br/>corridors, gates,<br/>wing, cubicles"]
+    Logs["Metrics / Logs"]
+
+    Agent -->|"request plan / replan"| Planner
+    Planner -->|"plan"| Executor
+    Executor -->|"execute actions"| Resources
+    Executor -.->|"PostPerform effects"| World
+    Executor -->|"target unavailable"| Rollback
+    Rollback -->|"EmergencyPerform rollback"| World
+    Rollback -->|"plan invalidated"| Agent
+    World -->|"belief update + changed counter"| Agent
+    World -->|"queue + occupancy"| Mediator
+    Mediator -->|"open/close gates"| Resources
+    Mediator -->|"counter++ when availability changes"| World
+    Executor -.->|"events"| Logs
+    Mediator -.->|"flow decisions"| Logs

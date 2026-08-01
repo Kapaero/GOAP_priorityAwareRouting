@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="760" viewBox="0 0 1300 760">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+</marker>
+<marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#B91C1C"/>
+</marker>
+<filter id="softShadow" x="-8%" y="-8%" width="116%" height="126%">
+<feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="650" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1F2937">Environment-Mediated GOAP Replanning Architecture</text>
+
+<rect x="50" y="70" width="875" height="155" rx="14" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="8 5"/>
+<text x="68" y="96" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Agent planning and execution loop</text>
+
+<rect x="50" y="420" width="875" height="160" rx="14" fill="#F8FAFC" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="8 5"/>
+<text x="68" y="446" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Shared environment and transport resources</text>
+
+<rect x="70" y="115" width="230" height="95" rx="10" fill="#F3F8FF" stroke="#2F6FA3" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="70" y="115" width="230" height="36" rx="10" fill="#2F6FA3"/>
+<text x="185" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Patient Agent</text>
+<text x="185" y="169" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="185" dy="0">goal, beliefs</tspan>
+<tspan x="185" dy="17">current plan</tspan>
+</text>
+
+<rect x="365" y="115" width="230" height="95" rx="10" fill="#F3F8FF" stroke="#4E79A7" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="365" y="115" width="230" height="36" rx="10" fill="#4E79A7"/>
+<text x="480" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">GOAP Planner</text>
+<text x="480" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="480" dy="0">builds action sequence</tspan>
+</text>
+
+<rect x="660" y="115" width="230" height="95" rx="10" fill="#FFF7ED" stroke="#D98C28" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="660" y="115" width="230" height="36" rx="10" fill="#D98C28"/>
+<text x="775" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Action Executor</text>
+<text x="775" y="169" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="775" dy="0">PrePerform / Move</tspan>
+<tspan x="775" dy="17">PostPerform effects</tspan>
+</text>
+
+<rect x="1000" y="115" width="240" height="95" rx="10" fill="#FFF5F5" stroke="#C85A54" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="1000" y="115" width="240" height="36" rx="10" fill="#C85A54"/>
+<text x="1120" y="139" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Emergency Rollback</text>
+<text x="1120" y="169" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="1120" dy="0">release reservations</tspan>
+<tspan x="1120" dy="17">clear temporary modifiers</tspan>
+</text>
+
+<rect x="70" y="470" width="230" height="95" rx="10" fill="#F3FBF5" stroke="#4F9D69" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="70" y="470" width="230" height="36" rx="10" fill="#4F9D69"/>
+<text x="185" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Shared World State</text>
+<text x="185" y="524" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="185" dy="0">queue, resources</tspan>
+<tspan x="185" dy="17">world-change counter</tspan>
+</text>
+
+<rect x="365" y="470" width="230" height="95" rx="10" fill="#FFF5F5" stroke="#C85A54" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="365" y="470" width="230" height="36" rx="10" fill="#C85A54"/>
+<text x="480" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Environment Mediator</text>
+<text x="480" y="524" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="480" dy="0">observes queue/occupancy</tspan>
+<tspan x="480" dy="17">sets target availability</tspan>
+</text>
+
+<rect x="660" y="470" width="230" height="95" rx="10" fill="#FFF7ED" stroke="#D98C28" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="660" y="470" width="230" height="36" rx="10" fill="#D98C28"/>
+<text x="775" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Hospital Resources</text>
+<text x="775" y="524" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="775" dy="0">corridors, gates</tspan>
+<tspan x="775" dy="17">wing, cubicles</tspan>
+</text>
+
+<rect x="1000" y="470" width="240" height="95" rx="10" fill="#FBF7FF" stroke="#7A5DA8" stroke-width="2.2" filter="url(#softShadow)"/>
+<rect x="1000" y="470" width="240" height="36" rx="10" fill="#7A5DA8"/>
+<text x="1120" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Metrics / Logs</text>
+<text x="1120" y="531" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#26313F">
+<tspan x="1120" dy="0">events and outcomes</tspan>
+</text>
+
+<line x1="300" y1="163" x2="365" y2="163" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="332" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">request / replan</text>
+
+<line x1="595" y1="163" x2="660" y2="163" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="628" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">plan</text>
+
+<line x1="890" y1="163" x2="1000" y2="163" stroke="#B91C1C" stroke-width="2" marker-end="url(#arrowRed)"/>
+<text x="945" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#B91C1C">target unavailable</text>
+
+<polyline points="775,210 775,470" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="793" y="342" font-family="Arial, sans-serif" font-size="11" fill="#64748B">execute actions</text>
+
+<polyline points="700,210 700,275 300,275 300,470" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)"/>
+<text x="504" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">PostPerform updates beliefs/resources</text>
+
+<polyline points="1120,210 1120,330 185,330 185,470" fill="none" stroke="#B91C1C" stroke-width="2" marker-end="url(#arrowRed)"/>
+<text x="650" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#B91C1C">EmergencyPerform returns reservations, then plan is invalidated</text>
+
+<polyline points="1000,133 940,133 940,250 235,250 235,210" fill="none" stroke="#B91C1C" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrowRed)"/>
+<text x="606" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#B91C1C">clear current action queue</text>
+
+<line x1="185" y1="470" x2="185" y2="210" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="158" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B" transform="rotate(-90 158 344)">belief update + changed counter</text>
+
+<line x1="300" y1="506" x2="365" y2="506" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="332" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">queue + occupancy</text>
+
+<line x1="365" y1="535" x2="300" y2="535" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="332" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">counter++</text>
+
+<line x1="595" y1="506" x2="660" y2="506" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="628" y="494" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">open/close gates</text>
+
+<polyline points="890,525 1000,525" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)"/>
+<text x="945" y="513" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">resource events</text>
+
+<polyline points="890,182 945,182 945,488 1000,488" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)"/>
+<text x="964" y="342" font-family="Arial, sans-serif" font-size="11" fill="#64748B">action events</text>
+
+<rect x="70" y="630" width="1170" height="72" rx="10" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="655" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#334155">
+<tspan x="655" dy="0">The mediator does not directly command patient behavior. It observes the global queue and occupancy, changes target availability,</tspan>
+<tspan x="655" dy="17">increments the world-change counter, and this makes agents rebuild plans after completed or emergency-interrupted actions.</tspan>
+</text>
+</svg>

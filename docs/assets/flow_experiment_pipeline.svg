@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#2F3742"/>
+</marker>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000000" flood-opacity="0.16"/>
+</filter>
+</defs>
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="750.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17202A">Experimental Pipeline and Reported Outcomes</text>
+<rect x="70.0" y="120.0" width="250.0" height="110.0" rx="8" fill="#FBF7FF" stroke="#B07AA1" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="70.0" y="120.0" width="250.0" height="34" rx="8" fill="#B07AA1" stroke="#B07AA1" stroke-width="2.2"/>
+<text x="195.0" y="142.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">MIMIC-derived Arrivals</text>
+<text x="195.0" y="175.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="195.0" dy="0">300 scheduled patients</tspan>
+<tspan x="195.0" dy="17">67 critical</tspan>
+<tspan x="195.0" dy="17">empirical time-of-day pattern</tspan>
+</text>
+<rect x="390.0" y="120.0" width="250.0" height="110.0" rx="8" fill="#FBF7FF" stroke="#B07AA1" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="390.0" y="120.0" width="250.0" height="34" rx="8" fill="#B07AA1" stroke="#B07AA1" stroke-width="2.2"/>
+<text x="515.0" y="142.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Protocol Service Window</text>
+<text x="515.0" y="175.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="515.0" dy="0">triage contact</tspan>
+<tspan x="515.0" dy="17">2-5 minutes</tspan>
+<tspan x="515.0" dy="17">per patient</tspan>
+</text>
+<rect x="710.0" y="120.0" width="250.0" height="110.0" rx="8" fill="#F8FAFC" stroke="#6B7280" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="710.0" y="120.0" width="250.0" height="34" rx="8" fill="#6B7280" stroke="#6B7280" stroke-width="2.2"/>
+<text x="835.0" y="142.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Load Sweep</text>
+<text x="835.0" y="166.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="835.0" dy="0">x2.00</tspan>
+<tspan x="835.0" dy="17">x1.50</tspan>
+<tspan x="835.0" dy="17">x1.25</tspan>
+<tspan x="835.0" dy="17">x1.00</tspan>
+</text>
+<rect x="1030.0" y="120.0" width="290.0" height="110.0" rx="8" fill="#F3F8FF" stroke="#4E79A7" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="1030.0" y="120.0" width="290.0" height="34" rx="8" fill="#4E79A7" stroke="#4E79A7" stroke-width="2.2"/>
+<text x="1175.0" y="142.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Four Controllers</text>
+<text x="1175.0" y="166.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1175.0" dy="0">FSM / Reactive</tspan>
+<tspan x="1175.0" dy="17">Priority Queue</tspan>
+<tspan x="1175.0" dy="17">Decision Table</tspan>
+<tspan x="1175.0" dy="17">Proposed GOAP Replanner</tspan>
+</text>
+<rect x="235.0" y="360.0" width="270.0" height="115.0" rx="8" fill="#FFF7ED" stroke="#F28E2B" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="235.0" y="360.0" width="270.0" height="34" rx="8" fill="#F28E2B" stroke="#F28E2B" stroke-width="2.2"/>
+<text x="370.0" y="382.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Unity Simulation</text>
+<text x="370.0" y="417.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="370.0" dy="0">NavMesh transport</tspan>
+<tspan x="370.0" dy="17">cubicle resources</tspan>
+<tspan x="370.0" dy="17">dynamic gates</tspan>
+</text>
+<rect x="615.0" y="360.0" width="270.0" height="115.0" rx="8" fill="#FBF7FF" stroke="#B07AA1" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="615.0" y="360.0" width="270.0" height="34" rx="8" fill="#B07AA1" stroke="#B07AA1" stroke-width="2.2"/>
+<text x="750.0" y="382.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Event Logs</text>
+<text x="750.0" y="400.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="750.0" dy="0">spawn</tspan>
+<tspan x="750.0" dy="17">waiting room</tspan>
+<tspan x="750.0" dy="17">wing entry</tspan>
+<tspan x="750.0" dy="17">treatment complete</tspan>
+<tspan x="750.0" dy="17">home</tspan>
+</text>
+<rect x="995.0" y="360.0" width="270.0" height="115.0" rx="8" fill="#F3FBF5" stroke="#59A14F" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="995.0" y="360.0" width="270.0" height="34" rx="8" fill="#59A14F" stroke="#59A14F" stroke-width="2.2"/>
+<text x="1130.0" y="382.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Protocol Metrics</text>
+<text x="1130.0" y="417.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1130.0" dy="0">contact &lt;= 5 min</tspan>
+<tspan x="1130.0" dy="17">time to triage &lt;= 15 min</tspan>
+<tspan x="1130.0" dy="17">critical tail latency</tspan>
+</text>
+<rect x="235.0" y="610.0" width="270.0" height="115.0" rx="8" fill="#F3FBF5" stroke="#59A14F" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="235.0" y="610.0" width="270.0" height="34" rx="8" fill="#59A14F" stroke="#59A14F" stroke-width="2.2"/>
+<text x="370.0" y="632.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Throughput</text>
+<text x="370.0" y="667.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="370.0" dy="0">run finish time</tspan>
+<tspan x="370.0" dy="17">completed patients</tspan>
+<tspan x="370.0" dy="17">queue pressure</tspan>
+</text>
+<rect x="615.0" y="610.0" width="270.0" height="115.0" rx="8" fill="#FFF5F5" stroke="#E15759" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="615.0" y="610.0" width="270.0" height="34" rx="8" fill="#E15759" stroke="#E15759" stroke-width="2.2"/>
+<text x="750.0" y="632.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Priority Outcome</text>
+<text x="750.0" y="667.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="750.0" dy="0">critical average delay</tspan>
+<tspan x="750.0" dy="17">critical p95 delay</tspan>
+<tspan x="750.0" dy="17">breach rate</tspan>
+</text>
+<rect x="995.0" y="610.0" width="270.0" height="115.0" rx="8" fill="#FBF7FF" stroke="#B07AA1" stroke-width="2.2" filter="url(#shadow)"/>
+<rect x="995.0" y="610.0" width="270.0" height="34" rx="8" fill="#B07AA1" stroke="#B07AA1" stroke-width="2.2"/>
+<text x="1130.0" y="632.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Figures</text>
+<text x="1130.0" y="667.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#26313F">
+<tspan x="1130.0" dy="0">boxplots</tspan>
+<tspan x="1130.0" dy="17">load curves</tspan>
+<tspan x="1130.0" dy="17">breach-rate charts</tspan>
+</text>
+<line x1="320.0" y1="175.0" x2="390.0" y2="175.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="640.0" y1="175.0" x2="710.0" y2="175.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="960.0" y1="175.0" x2="1030.0" y2="175.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1175.0,230.0 1175.0,295.0 370.0,295.0 370.0,360.0" fill="none" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="505.0" y1="417.0" x2="615.0" y2="417.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="885.0" y1="417.0" x2="995.0" y2="417.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="370.0" y1="475.0" x2="370.0" y2="610.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="750.0" y1="475.0" x2="750.0" y2="610.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="1130.0" y1="475.0" x2="1130.0" y2="610.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="505.0" y1="667.0" x2="615.0" y2="667.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="885.0" y1="667.0" x2="995.0" y2="667.0" stroke="#2F3742" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="70.0" y="790.0" width="1240.0" height="60.0" rx="8" fill="#EDF2F7" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="690.0" y="820.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#334155">
+<tspan x="690.0" dy="0">No clinical decision model is claimed. MIMIC and protocol limits provide realistic temporal pressure for evaluating transport and flow-control behavior.</tspan>
+</text>
+</svg>

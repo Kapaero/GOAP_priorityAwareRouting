@@ -1,0 +1,17 @@
+load_multiplier,architecture,patients,critical_patients,contact_over_5min,contact_over_5min_pct,time_to_triage_over_15min,time_to_triage_over_15min_pct,critical_time_to_triage_over_15min,critical_time_to_triage_over_15min_pct,normal_time_to_triage_over_15min,normal_time_to_triage_over_15min_pct,avg_time_to_triage_min,p95_time_to_triage_min,avg_critical_time_to_triage_min,p95_critical_time_to_triage_min,avg_total_min,p95_total_min
+1.00,DecisionTableController,300,67,0,0.00,130,43.33,0,0.00,130,55.79,11.95,26.45,1.72,3.25,16.24,30.27
+1.00,FsmReactiveController,300,67,0,0.00,139,46.33,0,0.00,139,59.66,12.40,27.70,1.80,4.64,16.88,31.16
+1.00,PriorityQueueDispatcher,300,67,0,0.00,127,42.33,0,0.00,127,54.51,11.43,25.64,1.55,3.24,15.82,29.33
+1.00,ProposedEnvironmentMediatedReplanner,300,67,0,0.00,120,40.00,0,0.00,120,51.50,11.34,25.28,1.35,2.61,15.25,28.84
+1.25,DecisionTableController,300,67,0,0.00,108,36.00,0,0.00,108,46.35,9.79,22.65,1.40,2.57,14.02,26.37
+1.25,FsmReactiveController,300,67,0,0.00,104,34.67,0,0.00,104,44.64,9.43,21.47,1.32,2.94,13.55,25.60
+1.25,PriorityQueueDispatcher,300,67,0,0.00,107,35.67,0,0.00,107,45.92,9.50,21.63,1.37,3.04,13.70,25.62
+1.25,ProposedEnvironmentMediatedReplanner,300,67,0,0.00,113,37.67,0,0.00,113,48.50,10.55,23.54,1.44,2.89,14.50,27.63
+1.50,DecisionTableController,300,67,0,0.00,76,25.33,0,0.00,76,32.62,7.74,18.32,1.14,1.85,11.74,22.18
+1.50,FsmReactiveController,300,67,0,0.00,79,26.33,0,0.00,79,33.91,7.87,18.66,1.18,2.25,11.85,22.53
+1.50,PriorityQueueDispatcher,300,67,0,0.00,89,29.67,0,0.00,89,38.20,8.40,19.20,1.33,2.59,12.41,23.31
+1.50,ProposedEnvironmentMediatedReplanner,300,67,0,0.00,96,32.00,0,0.00,96,41.20,9.14,21.75,1.43,2.85,13.03,25.92
+2.00,DecisionTableController,300,67,0,0.00,0,0.00,0,0.00,0,0.00,5.27,12.72,1.06,2.07,9.19,16.94
+2.00,FsmReactiveController,300,67,0,0.00,0,0.00,0,0.00,0,0.00,5.20,12.67,0.97,1.67,9.10,17.00
+2.00,PriorityQueueDispatcher,300,67,0,0.00,0,0.00,0,0.00,0,0.00,5.12,12.26,1.14,2.25,9.04,16.35
+2.00,ProposedEnvironmentMediatedReplanner,300,67,0,0.00,47,15.67,0,0.00,47,20.17,6.84,16.73,1.32,2.72,10.76,20.57

@@ -1,0 +1,301 @@
+time_seconds,is_critical,source_time,source_hadm_id,admission_type,critical_reason,diagnosis,service_seconds,source_ed_minutes,service_source
+0.836,false,2180-01-01 08:00:00,20000001,EMERGENCY,,Wound check,125.32,31,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+2.504,true,2180-01-01 08:00:02,20000002,URGENT,synthetic_priority,Shortness of breath,190.71,84,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+3.332,true,2180-01-01 08:00:03,20000003,URGENT,synthetic_priority,Chest pain,120.55,226,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+9.180,false,2180-01-01 08:00:09,20000004,EMERGENCY,,Wound check,138.04,39,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+27.508,true,2180-01-01 08:00:27,20000005,URGENT,synthetic_priority,Chest pain,261.18,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+35.012,true,2180-01-01 08:00:35,20000006,URGENT,synthetic_priority,Sepsis evaluation,150.65,137,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+48.348,true,2180-01-01 08:00:48,20000007,URGENT,synthetic_priority,Shortness of breath,281.14,167,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+48.387,false,2180-01-01 08:00:48,20000008,EMERGENCY,,Nausea,243.29,151,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+53.344,true,2180-01-01 08:00:53,20000009,URGENT,synthetic_priority,Respiratory distress,144.27,234,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+66.836,false,2180-01-01 08:01:06,20000010,EMERGENCY,,Fever,212.43,135,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+70.840,false,2180-01-01 08:01:10,20000011,EMERGENCY,,Wound check,275.76,159,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+80.840,true,2180-01-01 08:01:20,20000012,URGENT,synthetic_priority,Respiratory distress,275.94,54,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+88.336,true,2180-01-01 08:01:28,20000013,URGENT,synthetic_priority,Hypotension,223.61,179,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+95.004,false,2180-01-01 08:01:35,20000014,EMERGENCY,,Abdominal pain,242.17,147,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+95.836,false,2180-01-01 08:01:35,20000015,EMERGENCY,,Dizziness,289.52,145,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+96.684,false,2180-01-01 08:01:36,20000016,EMERGENCY,,Wound check,160.61,119,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+103.332,false,2180-01-01 08:01:43,20000017,EMERGENCY,,Fever,186.64,117,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+104.184,false,2180-01-01 08:01:44,20000018,EMERGENCY,,Minor trauma,151.95,173,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+110.125,false,2180-01-01 08:01:50,20000019,EMERGENCY,,Nausea,244.84,34,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+115.832,false,2180-01-01 08:01:55,20000020,EMERGENCY,,Nausea,134.91,58,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+120.012,false,2180-01-01 08:02:00,20000021,EMERGENCY,,Back pain,226.86,143,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+144.172,false,2180-01-01 08:02:24,20000022,EMERGENCY,,Fever,130.57,129,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+149.172,false,2180-01-01 08:02:29,20000023,EMERGENCY,,Dizziness,225.43,71,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+156.676,false,2180-01-01 08:02:36,20000024,EMERGENCY,,Headache,158.06,101,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+157.504,false,2180-01-01 08:02:37,20000025,EMERGENCY,,Minor trauma,138.89,150,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+157.559,false,2180-01-01 08:02:37,20000026,EMERGENCY,,Headache,189.68,94,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+159.176,false,2180-01-01 08:02:39,20000027,EMERGENCY,,Minor trauma,269.72,156,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+165.000,false,2180-01-01 08:02:45,20000028,EMERGENCY,,Dizziness,262.34,128,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+187.504,true,2180-01-01 08:03:07,20000029,URGENT,synthetic_priority,Sepsis evaluation,195.72,238,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+191.680,false,2180-01-01 08:03:11,20000030,EMERGENCY,,Nausea,291.68,58,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+210.840,false,2180-01-01 08:03:30,20000031,EMERGENCY,,Nausea,140.90,118,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+213.344,false,2180-01-01 08:03:33,20000032,EMERGENCY,,Dizziness,162.77,122,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+219.180,false,2180-01-01 08:03:39,20000033,EMERGENCY,,Nausea,283.57,53,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+225.844,false,2180-01-01 08:03:45,20000034,EMERGENCY,,Minor trauma,196.60,26,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+237.504,false,2180-01-01 08:03:57,20000035,EMERGENCY,,Minor trauma,145.24,141,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+240.012,false,2180-01-01 08:04:00,20000036,EMERGENCY,,Abdominal pain,159.00,40,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+248.008,false,2180-01-01 08:04:08,20000037,EMERGENCY,,Dizziness,222.70,126,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+250.008,true,2180-01-01 08:04:10,20000038,URGENT,synthetic_priority,Altered mental status,258.08,149,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+253.340,false,2180-01-01 08:04:13,20000039,EMERGENCY,,Abdominal pain,157.76,174,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+261.676,false,2180-01-01 08:04:21,20000040,EMERGENCY,,Wound check,163.74,77,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+281.680,false,2180-01-01 08:04:41,20000041,EMERGENCY,,Back pain,151.23,158,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+316.680,true,2180-01-01 08:05:16,20000042,URGENT,synthetic_priority,Shortness of breath,214.59,181,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+346.680,false,2180-01-01 08:05:46,20000043,EMERGENCY,,Back pain,245.87,153,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+350.008,false,2180-01-01 08:05:50,20000044,EMERGENCY,,Fever,146.82,61,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+351.680,false,2180-01-01 08:05:51,20000045,EMERGENCY,,Minor trauma,138.04,89,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+369.668,false,2180-01-01 08:06:09,20000046,EMERGENCY,,Minor trauma,141.44,56,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+377.512,false,2180-01-01 08:06:17,20000047,EMERGENCY,,Fever,294.53,129,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+388.344,true,2180-01-01 08:06:28,20000048,URGENT,synthetic_priority,Chest pain,241.68,148,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+389.180,false,2180-01-01 08:06:29,20000049,EMERGENCY,,Headache,214.10,137,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+390.832,false,2180-01-01 08:06:30,20000050,EMERGENCY,,Headache,262.67,128,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+395.832,false,2180-01-01 08:06:35,20000051,EMERGENCY,,Fever,129.36,35,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+403.332,true,2180-01-01 08:06:43,20000052,URGENT,synthetic_priority,Shortness of breath,252.74,230,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+414.184,false,2180-01-01 08:06:54,20000053,EMERGENCY,,Fever,256.66,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+420.320,false,2180-01-01 08:07:00,20000054,EMERGENCY,,Back pain,200.86,153,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+421.676,false,2180-01-01 08:07:01,20000055,EMERGENCY,,Headache,260.79,91,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+427.508,false,2180-01-01 08:07:07,20000056,EMERGENCY,,Dizziness,150.47,101,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+437.508,false,2180-01-01 08:07:17,20000057,EMERGENCY,,Minor trauma,138.44,144,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+438.336,false,2180-01-01 08:07:18,20000058,EMERGENCY,,Nausea,158.39,175,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+447.504,false,2180-01-01 08:07:27,20000059,EMERGENCY,,Back pain,139.87,111,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+455.914,true,2180-01-01 08:07:35,20000060,URGENT,synthetic_priority,Chest pain,207.30,123,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+455.914,true,2180-01-01 08:07:35,20000061,URGENT,synthetic_priority,Respiratory distress,164.13,195,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+465.832,true,2180-01-01 08:07:45,20000062,URGENT,synthetic_priority,Altered mental status,123.13,157,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+478.336,false,2180-01-01 08:07:58,20000063,EMERGENCY,,Fever,247.73,112,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+480.008,false,2180-01-01 08:08:00,20000064,EMERGENCY,,Abdominal pain,248.15,110,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+480.836,false,2180-01-01 08:08:00,20000065,EMERGENCY,,Wound check,194.33,113,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+486.672,true,2180-01-01 08:08:06,20000066,URGENT,synthetic_priority,Sepsis evaluation,247.73,220,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+491.684,false,2180-01-01 08:08:11,20000067,EMERGENCY,,Wound check,192.60,53,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+509.172,false,2180-01-01 08:08:29,20000068,EMERGENCY,,Headache,224.94,131,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+513.336,false,2180-01-01 08:08:33,20000069,EMERGENCY,,Abdominal pain,203.77,158,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+518.332,false,2180-01-01 08:08:38,20000070,EMERGENCY,,Minor trauma,161.01,122,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+522.512,true,2180-01-01 08:08:42,20000071,URGENT,synthetic_priority,Respiratory distress,283.57,188,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+534.176,true,2180-01-01 08:08:54,20000072,URGENT,synthetic_priority,Hypotension,226.86,197,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+535.840,false,2180-01-01 08:08:55,20000073,EMERGENCY,,Abdominal pain,261.85,82,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+536.684,false,2180-01-01 08:08:56,20000074,EMERGENCY,,Fever,143.57,146,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+536.723,false,2180-01-01 08:08:56,20000075,EMERGENCY,,Fever,268.56,172,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+542.512,true,2180-01-01 08:09:02,20000076,URGENT,synthetic_priority,Chest pain,157.06,156,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+551.684,false,2180-01-01 08:09:11,20000077,EMERGENCY,,Nausea,194.81,138,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+555.000,false,2180-01-01 08:09:15,20000078,EMERGENCY,,Wound check,166.05,92,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+555.848,false,2180-01-01 08:09:15,20000079,EMERGENCY,,Abdominal pain,138.89,173,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+560.836,false,2180-01-01 08:09:20,20000080,EMERGENCY,,Dizziness,144.97,156,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+562.500,false,2180-01-01 08:09:22,20000081,EMERGENCY,,Back pain,200.86,32,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+566.680,true,2180-01-01 08:09:26,20000082,URGENT,synthetic_priority,Hypotension,239.13,172,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+568.344,true,2180-01-01 08:09:28,20000083,URGENT,synthetic_priority,Chest pain,272.39,129,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+571.672,false,2180-01-01 08:09:31,20000084,EMERGENCY,,Minor trauma,262.34,35,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+571.727,false,2180-01-01 08:09:31,20000085,EMERGENCY,,Wound check,201.46,126,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+571.777,false,2180-01-01 08:09:31,20000086,EMERGENCY,,Abdominal pain,275.76,116,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+574.180,false,2180-01-01 08:09:34,20000087,EMERGENCY,,Back pain,273.39,75,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+578.332,false,2180-01-01 08:09:38,20000088,EMERGENCY,,Abdominal pain,188.95,106,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+583.340,true,2180-01-01 08:09:43,20000089,URGENT,synthetic_priority,Shortness of breath,123.92,99,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+586.676,false,2180-01-01 08:09:46,20000090,EMERGENCY,,Back pain,159.00,88,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+588.336,false,2180-01-01 08:09:48,20000091,EMERGENCY,,Minor trauma,206.60,41,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+590.844,true,2180-01-01 08:09:50,20000092,URGENT,synthetic_priority,Respiratory distress,223.61,55,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+593.344,false,2180-01-01 08:09:53,20000093,EMERGENCY,,Nausea,141.44,65,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+594.172,false,2180-01-01 08:09:54,20000094,EMERGENCY,,Fever,200.86,88,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+600.000,false,2180-01-01 08:10:00,20000095,EMERGENCY,,Minor trauma,151.23,121,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+600.832,false,2180-01-01 08:10:00,20000096,EMERGENCY,,Back pain,147.79,137,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+604.172,true,2180-01-01 08:10:04,20000097,URGENT,synthetic_priority,Hypotension,148.16,179,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+605.000,true,2180-01-01 08:10:05,20000098,URGENT,synthetic_priority,Chest pain,215.25,80,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+608.340,false,2180-01-01 08:10:08,20000099,EMERGENCY,,Wound check,264.74,160,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+614.184,false,2180-01-01 08:10:14,20000100,EMERGENCY,,Minor trauma,241.35,25,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+621.676,false,2180-01-01 08:10:21,20000101,EMERGENCY,,Abdominal pain,182.97,31,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+622.500,true,2180-01-01 08:10:22,20000102,URGENT,synthetic_priority,Shortness of breath,248.73,188,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+624.191,false,2180-01-01 08:10:24,20000103,EMERGENCY,,Fever,276.95,42,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+639.184,false,2180-01-01 08:10:39,20000104,EMERGENCY,,Wound check,144.27,138,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+640.012,false,2180-01-01 08:10:40,20000105,EMERGENCY,,Fever,282.84,119,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+644.184,false,2180-01-01 08:10:44,20000106,EMERGENCY,,Dizziness,280.89,61,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+649.180,true,2180-01-01 08:10:49,20000107,URGENT,synthetic_priority,Shortness of breath,206.26,80,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+654.176,false,2180-01-01 08:10:54,20000108,EMERGENCY,,Nausea,247.03,107,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+660.832,false,2180-01-01 08:11:00,20000109,EMERGENCY,,Back pain,202.71,32,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+661.672,false,2180-01-01 08:11:01,20000110,EMERGENCY,,Dizziness,274.49,37,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+663.344,false,2180-01-01 08:11:03,20000111,EMERGENCY,,Abdominal pain,225.43,73,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+665.844,false,2180-01-01 08:11:05,20000112,EMERGENCY,,Wound check,139.56,84,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+666.672,true,2180-01-01 08:11:06,20000113,URGENT,synthetic_priority,Hypotension,155.75,239,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+669.301,false,2180-01-01 08:11:09,20000114,EMERGENCY,,Dizziness,236.97,134,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+671.684,true,2180-01-01 08:11:11,20000115,URGENT,synthetic_priority,Hypotension,274.70,63,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+672.504,true,2180-01-01 08:11:12,20000116,URGENT,synthetic_priority,Hypotension,276.58,173,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+675.836,false,2180-01-01 08:11:15,20000117,EMERGENCY,,Wound check,267.99,92,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+682.504,true,2180-01-01 08:11:22,20000118,URGENT,synthetic_priority,Chest pain,146.12,134,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+685.832,false,2180-01-01 08:11:25,20000119,EMERGENCY,,Wound check,215.56,92,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+690.836,true,2180-01-01 08:11:30,20000120,URGENT,synthetic_priority,Shortness of breath,130.15,56,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+690.895,false,2180-01-01 08:11:30,20000121,EMERGENCY,,Minor trauma,271.42,69,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+700.840,false,2180-01-01 08:11:40,20000122,EMERGENCY,,Nausea,234.00,173,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+702.512,false,2180-01-01 08:11:42,20000123,EMERGENCY,,Fever,241.35,150,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+709.742,false,2180-01-01 08:11:49,20000124,EMERGENCY,,Wound check,253.86,27,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+712.500,true,2180-01-01 08:11:52,20000125,URGENT,synthetic_priority,Chest pain,245.20,107,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+715.840,true,2180-01-01 08:11:55,20000126,URGENT,synthetic_priority,Altered mental status,281.02,58,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+719.191,false,2180-01-01 08:11:59,20000127,EMERGENCY,,Back pain,175.52,130,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+720.832,false,2180-01-01 08:12:00,20000128,EMERGENCY,,Headache,259.97,149,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+725.012,true,2180-01-01 08:12:05,20000129,URGENT,synthetic_priority,Respiratory distress,228.13,185,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+729.180,false,2180-01-01 08:12:09,20000130,EMERGENCY,,Back pain,239.86,36,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+733.348,true,2180-01-01 08:12:13,20000131,URGENT,synthetic_priority,Chest pain,274.06,150,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+735.832,false,2180-01-01 08:12:15,20000132,EMERGENCY,,Wound check,210.24,152,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+735.898,false,2180-01-01 08:12:15,20000133,EMERGENCY,,Back pain,295.50,32,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+739.176,false,2180-01-01 08:12:19,20000134,EMERGENCY,,Headache,161.70,172,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+740.008,false,2180-01-01 08:12:20,20000135,EMERGENCY,,Headache,285.45,179,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+744.176,false,2180-01-01 08:12:24,20000136,EMERGENCY,,Wound check,204.90,105,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+745.000,false,2180-01-01 08:12:25,20000137,EMERGENCY,,Abdominal pain,137.07,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+745.848,false,2180-01-01 08:12:25,20000138,EMERGENCY,,Abdominal pain,270.29,136,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+752.504,false,2180-01-01 08:12:32,20000139,EMERGENCY,,Nausea,253.86,55,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+754.184,false,2180-01-01 08:12:34,20000140,EMERGENCY,,Dizziness,220.72,26,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+755.004,false,2180-01-01 08:12:35,20000141,EMERGENCY,,Abdominal pain,238.46,164,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+758.348,false,2180-01-01 08:12:38,20000142,EMERGENCY,,Headache,231.41,57,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+765.008,false,2180-01-01 08:12:45,20000143,EMERGENCY,,Minor trauma,132.09,64,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+767.512,false,2180-01-01 08:12:47,20000144,EMERGENCY,,Wound check,189.68,30,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+767.563,true,2180-01-01 08:12:47,20000145,URGENT,synthetic_priority,Altered mental status,246.02,72,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+767.613,false,2180-01-01 08:12:47,20000146,EMERGENCY,,Nausea,224.15,25,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+771.676,false,2180-01-01 08:12:51,20000147,EMERGENCY,,Dizziness,152.87,141,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+772.508,false,2180-01-01 08:12:52,20000148,EMERGENCY,,Minor trauma,229.68,79,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+774.176,false,2180-01-01 08:12:54,20000149,EMERGENCY,,Fever,195.30,132,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+775.004,true,2180-01-01 08:12:55,20000150,URGENT,synthetic_priority,Respiratory distress,215.86,237,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+775.848,false,2180-01-01 08:12:55,20000151,EMERGENCY,,Fever,256.32,87,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+781.684,false,2180-01-01 08:13:01,20000152,EMERGENCY,,Nausea,222.48,92,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+781.731,false,2180-01-01 08:13:01,20000153,EMERGENCY,,Headache,208.60,146,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+783.340,false,2180-01-01 08:13:03,20000154,EMERGENCY,,Fever,269.60,144,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+787.512,false,2180-01-01 08:13:07,20000155,EMERGENCY,,Minor trauma,205.47,119,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+790.195,false,2180-01-01 08:13:10,20000156,EMERGENCY,,Headache,296.14,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+792.516,false,2180-01-01 08:13:12,20000157,EMERGENCY,,Fever,261.61,147,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+793.348,false,2180-01-01 08:13:13,20000158,EMERGENCY,,Nausea,216.26,108,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+793.398,true,2180-01-01 08:13:13,20000159,URGENT,synthetic_priority,Chest pain,206.93,167,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+795.008,true,2180-01-01 08:13:15,20000160,URGENT,synthetic_priority,Shortness of breath,192.60,113,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+795.059,false,2180-01-01 08:13:15,20000161,EMERGENCY,,Wound check,258.08,165,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+798.383,false,2180-01-01 08:13:18,20000162,EMERGENCY,,Dizziness,130.42,107,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+798.383,false,2180-01-01 08:13:18,20000163,EMERGENCY,,Fever,161.95,128,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+803.336,false,2180-01-01 08:13:23,20000164,EMERGENCY,,Abdominal pain,178.23,44,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+803.387,false,2180-01-01 08:13:23,20000165,EMERGENCY,,Nausea,152.41,101,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+806.676,false,2180-01-01 08:13:26,20000166,EMERGENCY,,Nausea,285.78,81,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+807.504,false,2180-01-01 08:13:27,20000167,EMERGENCY,,Abdominal pain,127.26,39,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+810.016,true,2180-01-01 08:13:30,20000168,URGENT,synthetic_priority,Shortness of breath,122.82,240,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+811.680,true,2180-01-01 08:13:31,20000169,URGENT,synthetic_priority,Respiratory distress,170.21,220,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+815.688,false,2180-01-01 08:13:35,20000170,EMERGENCY,,Headache,274.97,40,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+815.688,true,2180-01-01 08:13:35,20000171,URGENT,synthetic_priority,Respiratory distress,213.40,72,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+815.852,true,2180-01-01 08:13:35,20000172,URGENT,synthetic_priority,Chest pain,282.60,46,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+815.902,false,2180-01-01 08:13:35,20000173,EMERGENCY,,Back pain,121.34,123,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+817.508,true,2180-01-01 08:13:37,20000174,URGENT,synthetic_priority,Altered mental status,269.35,123,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+826.684,false,2180-01-01 08:13:46,20000175,EMERGENCY,,Minor trauma,262.67,51,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+827.508,false,2180-01-01 08:13:47,20000176,EMERGENCY,,Headache,166.78,164,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+835.004,false,2180-01-01 08:13:55,20000177,EMERGENCY,,Abdominal pain,206.26,114,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+835.832,false,2180-01-01 08:13:55,20000178,EMERGENCY,,Fever,131.09,53,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+835.883,false,2180-01-01 08:13:55,20000179,EMERGENCY,,Wound check,292.59,112,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+838.348,false,2180-01-01 08:13:58,20000180,EMERGENCY,,Back pain,296.87,52,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+840.848,false,2180-01-01 08:14:00,20000181,EMERGENCY,,Headache,229.04,33,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+840.902,false,2180-01-01 08:14:00,20000182,EMERGENCY,,Nausea,218.93,94,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+843.332,false,2180-01-01 08:14:03,20000183,EMERGENCY,,Fever,205.81,135,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+848.340,false,2180-01-01 08:14:08,20000184,EMERGENCY,,Back pain,185.67,74,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+851.676,false,2180-01-01 08:14:11,20000185,EMERGENCY,,Fever,194.33,138,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+852.520,false,2180-01-01 08:14:12,20000186,EMERGENCY,,Headache,281.35,174,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+859.172,false,2180-01-01 08:14:19,20000187,EMERGENCY,,Dizziness,126.65,120,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+859.223,false,2180-01-01 08:14:19,20000188,EMERGENCY,,Headache,235.67,91,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+865.004,false,2180-01-01 08:14:25,20000189,EMERGENCY,,Minor trauma,237.25,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+868.348,false,2180-01-01 08:14:28,20000190,EMERGENCY,,Minor trauma,157.39,69,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+868.398,true,2180-01-01 08:14:28,20000191,URGENT,synthetic_priority,Respiratory distress,201.46,168,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+870.836,false,2180-01-01 08:14:30,20000192,EMERGENCY,,Minor trauma,129.78,46,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+870.887,false,2180-01-01 08:14:30,20000193,EMERGENCY,,Headache,221.54,124,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+873.344,false,2180-01-01 08:14:33,20000194,EMERGENCY,,Minor trauma,200.86,136,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+874.172,false,2180-01-01 08:14:34,20000195,EMERGENCY,,Wound check,238.67,176,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+875.844,false,2180-01-01 08:14:35,20000196,EMERGENCY,,Nausea,265.52,152,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+884.520,true,2180-01-01 08:14:44,20000197,URGENT,synthetic_priority,Respiratory distress,203.77,50,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+884.520,true,2180-01-01 08:14:44,20000198,URGENT,synthetic_priority,Altered mental status,152.87,54,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+890.844,false,2180-01-01 08:14:50,20000199,EMERGENCY,,Minor trauma,234.48,45,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+891.676,false,2180-01-01 08:14:51,20000200,EMERGENCY,,Minor trauma,182.97,114,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+891.746,false,2180-01-01 08:14:51,20000201,EMERGENCY,,Minor trauma,274.18,63,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+892.508,false,2180-01-01 08:14:52,20000202,EMERGENCY,,Minor trauma,240.83,32,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+896.672,false,2180-01-01 08:14:56,20000203,EMERGENCY,,Minor trauma,256.02,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+897.500,true,2180-01-01 08:14:57,20000204,URGENT,synthetic_priority,Shortness of breath,272.21,61,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+897.559,true,2180-01-01 08:14:57,20000205,URGENT,synthetic_priority,Respiratory distress,188.95,148,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+903.332,false,2180-01-01 08:15:03,20000206,EMERGENCY,,Headache,120.33,154,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+908.340,false,2180-01-01 08:15:08,20000207,EMERGENCY,,Back pain,216.96,147,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+909.188,false,2180-01-01 08:15:09,20000208,EMERGENCY,,Minor trauma,288.82,103,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+911.672,false,2180-01-01 08:15:11,20000209,EMERGENCY,,Wound check,245.42,125,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+912.523,false,2180-01-01 08:15:12,20000210,EMERGENCY,,Headache,137.37,41,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+919.184,false,2180-01-01 08:15:19,20000211,EMERGENCY,,Dizziness,120.21,65,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+922.516,false,2180-01-01 08:15:22,20000212,EMERGENCY,,Back pain,211.85,116,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+924.191,false,2180-01-01 08:15:24,20000213,EMERGENCY,,Nausea,254.23,148,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+925.856,false,2180-01-01 08:15:25,20000214,EMERGENCY,,Headache,121.34,133,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+927.500,false,2180-01-01 08:15:27,20000215,EMERGENCY,,Headache,158.06,166,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+927.563,false,2180-01-01 08:15:27,20000216,EMERGENCY,,Nausea,130.93,27,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+928.340,true,2180-01-01 08:15:28,20000217,URGENT,synthetic_priority,Shortness of breath,173.16,96,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+930.020,true,2180-01-01 08:15:30,20000218,URGENT,synthetic_priority,Altered mental status,188.49,130,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+930.856,true,2180-01-01 08:15:30,20000219,URGENT,synthetic_priority,Sepsis evaluation,215.86,147,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+931.691,false,2180-01-01 08:15:31,20000220,EMERGENCY,,Back pain,159.70,73,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+936.688,false,2180-01-01 08:15:36,20000221,EMERGENCY,,Abdominal pain,138.89,72,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+944.188,false,2180-01-01 08:15:44,20000222,EMERGENCY,,Headache,237.76,25,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+944.188,false,2180-01-01 08:15:44,20000223,EMERGENCY,,Abdominal pain,169.39,105,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+948.219,false,2180-01-01 08:15:48,20000224,EMERGENCY,,Minor trauma,284.63,51,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+951.734,false,2180-01-01 08:15:51,20000225,EMERGENCY,,Fever,162.77,98,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+951.734,false,2180-01-01 08:15:51,20000226,EMERGENCY,,Headache,142.87,35,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+952.598,false,2180-01-01 08:15:52,20000227,EMERGENCY,,Fever,247.54,107,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+957.527,false,2180-01-01 08:15:57,20000228,EMERGENCY,,Nausea,137.95,110,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+957.570,false,2180-01-01 08:15:57,20000229,EMERGENCY,,Fever,261.61,42,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+961.691,false,2180-01-01 08:16:01,20000230,EMERGENCY,,Back pain,212.98,128,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+964.195,false,2180-01-01 08:16:04,20000231,EMERGENCY,,Abdominal pain,145.24,140,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+965.023,false,2180-01-01 08:16:05,20000232,EMERGENCY,,Minor trauma,152.65,170,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+965.832,false,2180-01-01 08:16:05,20000233,EMERGENCY,,Nausea,128.66,174,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+965.895,false,2180-01-01 08:16:05,20000234,EMERGENCY,,Headache,162.77,122,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+966.680,false,2180-01-01 08:16:06,20000235,EMERGENCY,,Abdominal pain,124.04,32,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+968.356,false,2180-01-01 08:16:08,20000236,EMERGENCY,,Headache,164.95,94,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+970.852,false,2180-01-01 08:16:10,20000237,EMERGENCY,,Dizziness,135.83,87,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+972.508,false,2180-01-01 08:16:12,20000238,EMERGENCY,,Back pain,215.56,164,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+978.340,false,2180-01-01 08:16:18,20000239,EMERGENCY,,Minor trauma,159.00,98,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+980.016,true,2180-01-01 08:16:20,20000240,URGENT,synthetic_priority,Altered mental status,156.21,156,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+980.051,false,2180-01-01 08:16:20,20000241,EMERGENCY,,Dizziness,242.17,74,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+983.332,true,2180-01-01 08:16:23,20000242,URGENT,synthetic_priority,Hypotension,218.20,136,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+984.184,true,2180-01-01 08:16:24,20000243,URGENT,synthetic_priority,Hypotension,255.08,237,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+984.223,false,2180-01-01 08:16:24,20000244,EMERGENCY,,Fever,199.31,36,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+985.840,true,2180-01-01 08:16:25,20000245,URGENT,synthetic_priority,Hypotension,294.53,228,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+986.699,true,2180-01-01 08:16:26,20000246,URGENT,synthetic_priority,Respiratory distress,275.55,138,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+987.512,true,2180-01-01 08:16:27,20000247,URGENT,synthetic_priority,Shortness of breath,186.64,154,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+989.195,false,2180-01-01 08:16:29,20000248,EMERGENCY,,Back pain,271.90,120,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+990.844,false,2180-01-01 08:16:30,20000249,EMERGENCY,,Wound check,278.46,54,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+992.508,false,2180-01-01 08:16:32,20000250,EMERGENCY,,Abdominal pain,146.82,145,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+996.672,false,2180-01-01 08:16:36,20000251,EMERGENCY,,Nausea,185.67,64,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+999.195,false,2180-01-01 08:16:39,20000252,EMERGENCY,,Dizziness,292.07,94,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+999.234,false,2180-01-01 08:16:39,20000253,EMERGENCY,,Nausea,181.45,175,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1005.023,false,2180-01-01 08:16:45,20000254,EMERGENCY,,Dizziness,287.36,49,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1007.516,false,2180-01-01 08:16:47,20000255,EMERGENCY,,Minor trauma,135.49,58,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1017.508,false,2180-01-01 08:16:57,20000256,EMERGENCY,,Minor trauma,295.69,119,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1019.188,false,2180-01-01 08:16:59,20000257,EMERGENCY,,Dizziness,126.47,114,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1022.504,false,2180-01-01 08:17:02,20000258,EMERGENCY,,Dizziness,272.21,113,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1025.004,true,2180-01-01 08:17:05,20000259,URGENT,synthetic_priority,Hypotension,177.80,62,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1026.844,false,2180-01-01 08:17:06,20000260,EMERGENCY,,Back pain,159.70,28,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1030.000,false,2180-01-01 08:17:10,20000261,EMERGENCY,,Dizziness,186.92,25,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1030.090,false,2180-01-01 08:17:10,20000262,EMERGENCY,,Fever,209.06,133,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1033.344,false,2180-01-01 08:17:13,20000263,EMERGENCY,,Minor trauma,253.86,60,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1035.867,true,2180-01-01 08:17:15,20000264,URGENT,synthetic_priority,Hypotension,240.83,119,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1037.527,false,2180-01-01 08:17:17,20000265,EMERGENCY,,Minor trauma,143.18,161,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1040.855,false,2180-01-01 08:17:20,20000266,EMERGENCY,,Back pain,193.84,33,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1044.020,false,2180-01-01 08:17:24,20000267,EMERGENCY,,Minor trauma,178.23,175,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1052.516,false,2180-01-01 08:17:32,20000268,EMERGENCY,,Dizziness,173.16,171,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1055.863,false,2180-01-01 08:17:35,20000269,EMERGENCY,,Nausea,164.13,70,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1058.340,false,2180-01-01 08:17:38,20000270,EMERGENCY,,Nausea,259.69,170,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1060.848,false,2180-01-01 08:17:40,20000271,EMERGENCY,,Back pain,175.52,107,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1065.008,false,2180-01-01 08:17:45,20000272,EMERGENCY,,Back pain,168.08,70,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1069.188,false,2180-01-01 08:17:49,20000273,EMERGENCY,,Headache,243.29,101,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1074.191,false,2180-01-01 08:17:54,20000274,EMERGENCY,,Nausea,144.00,120,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1083.043,true,2180-01-01 08:18:03,20000275,URGENT,synthetic_priority,Sepsis evaluation,240.13,113,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1085.625,false,2180-01-01 08:18:05,20000276,EMERGENCY,,Dizziness,237.76,125,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1087.719,false,2180-01-01 08:18:07,20000277,EMERGENCY,,Back pain,226.68,165,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1091.078,false,2180-01-01 08:18:11,20000278,EMERGENCY,,Fever,170.21,130,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1092.508,false,2180-01-01 08:18:12,20000279,EMERGENCY,,Nausea,219.54,148,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1098.348,false,2180-01-01 08:18:18,20000280,EMERGENCY,,Dizziness,275.55,175,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1098.395,false,2180-01-01 08:18:18,20000281,EMERGENCY,,Back pain,167.17,25,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1099.195,false,2180-01-01 08:18:19,20000282,EMERGENCY,,Dizziness,294.75,114,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1100.023,false,2180-01-01 08:18:20,20000283,EMERGENCY,,Minor trauma,132.54,129,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1103.766,true,2180-01-01 08:18:23,20000284,URGENT,synthetic_priority,Altered mental status,147.79,224,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1115.078,false,2180-01-01 08:18:35,20000285,EMERGENCY,,Fever,241.92,126,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1120.004,false,2180-01-01 08:18:40,20000286,EMERGENCY,,Fever,122.92,38,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1121.691,false,2180-01-01 08:18:41,20000287,EMERGENCY,,Fever,130.57,103,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1121.734,false,2180-01-01 08:18:41,20000288,EMERGENCY,,Minor trauma,280.26,103,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1125.832,false,2180-01-01 08:18:45,20000289,EMERGENCY,,Fever,229.56,44,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1130.027,false,2180-01-01 08:18:50,20000290,EMERGENCY,,Nausea,241.68,99,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1132.531,true,2180-01-01 08:18:52,20000291,URGENT,synthetic_priority,Sepsis evaluation,198.00,64,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1140.902,false,2180-01-01 08:19:00,20000292,EMERGENCY,,Dizziness,190.26,140,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1146.688,false,2180-01-01 08:19:06,20000293,EMERGENCY,,Minor trauma,144.97,94,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1154.180,false,2180-01-01 08:19:14,20000294,EMERGENCY,,Nausea,290.52,108,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1161.711,false,2180-01-01 08:19:21,20000295,EMERGENCY,,Wound check,137.71,74,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1162.535,true,2180-01-01 08:19:22,20000296,URGENT,synthetic_priority,Shortness of breath,199.67,71,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1168.344,false,2180-01-01 08:19:28,20000297,EMERGENCY,,Fever,234.79,84,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1172.551,false,2180-01-01 08:19:32,20000298,EMERGENCY,,Dizziness,150.07,122,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1172.551,false,2180-01-01 08:19:32,20000299,EMERGENCY,,Abdominal pain,225.43,165,mimic_iv_ed_demo_informed_protocol_2_to_5_min
+1194.176,true,2180-01-01 08:19:54,20000300,URGENT,synthetic_priority,Respiratory distress,135.83,156,mimic_iv_ed_demo_informed_protocol_2_to_5_min

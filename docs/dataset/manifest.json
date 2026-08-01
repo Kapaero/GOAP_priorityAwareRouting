@@ -1,0 +1,34 @@
+{
+  "name": "MIMIC-IV-ED demo-informed synthetic triage transport workload",
+  "version": "2026-06-06",
+  "seed": 20260603,
+  "patient_count": 300,
+  "critical_count": 67,
+  "normal_count": 233,
+  "critical_fraction": 0.2233,
+  "base_arrival_window_seconds": 1193.34,
+  "load_multipliers": [
+    1.0,
+    1.25,
+    1.5,
+    2.0
+  ],
+  "triage_contact_seconds_min": 120.21,
+  "triage_contact_seconds_max": 296.87,
+  "triage_contact_seconds_mean": 206.23,
+  "source": "Derived from the experiment log slice ProposedEnvironmentMediatedReplanner/load_multiplier=1.0 and exported as a MIMIC-IV-ED demo-like synthetic supplementary dataset.",
+  "clinical_validation": false,
+  "synthetic": true,
+  "unity_fields": [
+    "arrival_seconds",
+    "is_critical",
+    "triage_contact_seconds"
+  ],
+  "files": [
+    "simulation_arrival_schedule.csv",
+    "simulation_load_sweep_schedule.csv",
+    "unity_runtime_schedule.csv",
+    "mimic_iv_ed_demo_like_edstays.csv",
+    "mimic_iv_ed_demo_like_triage.csv"
+  ]
+}

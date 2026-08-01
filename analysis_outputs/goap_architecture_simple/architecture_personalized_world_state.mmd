@@ -1,0 +1,24 @@
+flowchart LR
+    Agent["Patient Agent"]
+    Context["Agent Context<br/>priority, goal, beliefs"]
+    World["Shared World State<br/>queue, resources, counter"]
+    Manager["Environment Manager<br/>flow policy"]
+    Transformer["Personalized World-State View<br/>agent-specific planning state"]
+    Planner["GOAP Planner"]
+    Executor["Action Executor"]
+    Resources["Hospital Resources"]
+    Rollback["Emergency Rollback"]
+
+    Agent --> Context
+    Context --> Transformer
+    World --> Transformer
+    Manager --> Transformer
+    Transformer --> Planner
+    Planner --> Executor
+    Executor --> Resources
+    Executor --> World
+    World --> Manager
+    Manager --> Resources
+    Executor -.-> Rollback
+    Rollback -.-> World
+    Rollback -.-> Agent

@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1450" viewBox="0 0 900 1450">
+<defs>
+<marker id="arrowDark" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#0F172A"/>
+</marker>
+<marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#C62828"/>
+</marker>
+</defs>
+
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="450" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#0F172A">
+<tspan x="450" dy="0">Environment-Mediated GOAP</tspan>
+<tspan x="450" dy="28">with Conditional Resource Access</tspan>
+</text>
+
+<!-- Top planning and execution column -->
+<rect x="55" y="95" width="320" height="130" rx="9" fill="#EFF6FF" stroke="#2B6CB0" stroke-width="2"/>
+<circle cx="96" cy="154" r="15" fill="none" stroke="#2B6CB0" stroke-width="3"/>
+<path d="M72 197 C76 174, 116 174, 120 197" fill="none" stroke="#2B6CB0" stroke-width="3"/>
+<text x="145" y="138" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Patient Agent</text>
+<text x="145" y="166" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="145" dy="0">priority, state,</tspan>
+<tspan x="145" dy="22">goal, attributes</tspan>
+</text>
+
+<rect x="55" y="280" width="320" height="130" rx="9" fill="#EFF6FF" stroke="#4E79A7" stroke-width="2"/>
+<circle cx="96" cy="345" r="24" fill="none" stroke="#4E79A7" stroke-width="3"/>
+<path d="M86 345 h20 M96 335 v20 M82 355 c12 12, 28 12, 40 0 M82 335 c12 -12, 28 -12, 40 0" fill="none" stroke="#4E79A7" stroke-width="2"/>
+<text x="145" y="324" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">GOAP Planner</text>
+<text x="145" y="352" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="145" dy="0">plan generation</tspan>
+<tspan x="145" dy="22">over snapshot</tspan>
+</text>
+
+<rect x="55" y="465" width="320" height="130" rx="9" fill="#FFF7ED" stroke="#D98C28" stroke-width="2"/>
+<circle cx="96" cy="530" r="24" fill="none" stroke="#D98C28" stroke-width="3"/>
+<path d="M96 510 v40 M76 530 h40 M83 517 l26 26 M109 517 l-26 26" fill="none" stroke="#D98C28" stroke-width="2.4"/>
+<text x="145" y="509" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#9A5A00">Action Executor</text>
+<text x="145" y="537" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="145" dy="0">executes actions</tspan>
+<tspan x="145" dy="22">in the environment</tspan>
+</text>
+
+<!-- Rollback branch -->
+<rect x="525" y="465" width="320" height="130" rx="9" fill="#FEF2F2" stroke="#C62828" stroke-width="2"/>
+<path d="M574 522 A24 24 0 0 1 615 505" fill="none" stroke="#C62828" stroke-width="3"/>
+<path d="M613 491 l4 18 l-18 -3" fill="none" stroke="#C62828" stroke-width="3"/>
+<path d="M616 538 A24 24 0 0 1 575 555" fill="none" stroke="#C62828" stroke-width="3"/>
+<path d="M577 569 l-4 -18 l18 3" fill="none" stroke="#C62828" stroke-width="3"/>
+<text x="655" y="509" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#B91C1C">Rollback &amp;</text>
+<text x="655" y="532" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#B91C1C">Replanning</text>
+<text x="655" y="562" font-family="Arial, sans-serif" font-size="14" fill="#111827">rollback, release, and replan</text>
+
+<!-- Environment layer -->
+<rect x="55" y="730" width="320" height="165" rx="9" fill="#FFF5F5" stroke="#C85A54" stroke-width="2"/>
+<path d="M78 793 h42 M78 833 h42 M98 773 v40 M101 813 v40" fill="none" stroke="#C85A54" stroke-width="3"/>
+<circle cx="98" cy="793" r="7" fill="#FFFFFF" stroke="#C85A54" stroke-width="3"/>
+<circle cx="120" cy="833" r="7" fill="#FFFFFF" stroke="#C85A54" stroke-width="3"/>
+<text x="150" y="775" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#B91C1C">Environment</text>
+<text x="150" y="798" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#B91C1C">Mediator</text>
+<text x="150" y="827" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="150" dy="0">applies rules and updates</tspan>
+<tspan x="150" dy="22">accessibility based on</tspan>
+<tspan x="150" dy="22">priority and conditions</tspan>
+</text>
+
+<rect x="525" y="730" width="320" height="165" rx="9" fill="#FFF7ED" stroke="#D98C28" stroke-width="2"/>
+<path d="M575 843 v-50 h42 v50 M565 843 h62 M587 843 v-26 h18 v26 M584 790 l12 -18 l12 18" fill="none" stroke="#D98C28" stroke-width="3"/>
+<path d="M571 807 h11 M610 807 h11" fill="none" stroke="#D98C28" stroke-width="3"/>
+<text x="655" y="775" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#9A5A00">Hospital Resources</text>
+<text x="655" y="810" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="655" dy="0">conditional access filters</tspan>
+<tspan x="655" dy="22">priority, status, queue,</tspan>
+<tspan x="655" dy="22">occupancy, availability</tspan>
+</text>
+
+<rect x="55" y="1030" width="320" height="165" rx="9" fill="#F0FDF4" stroke="#2F855A" stroke-width="2"/>
+<ellipse cx="96" cy="1087" rx="24" ry="10" fill="none" stroke="#2F855A" stroke-width="3"/>
+<path d="M72 1087 v54 c0 6 48 6 48 0 v-54 M72 1114 c0 6 48 6 48 0" fill="none" stroke="#2F855A" stroke-width="3"/>
+<text x="145" y="1078" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#15803D">Shared World State</text>
+<text x="145" y="1110" font-family="Arial, sans-serif" font-size="14" fill="#111827">
+<tspan x="145" dy="0">accessibility, nodes,</tspan>
+<tspan x="145" dy="22">resources, queues,</tspan>
+<tspan x="145" dy="22">global flags, version</tspan>
+</text>
+
+<!-- Main control arrows -->
+<line x1="215" y1="225" x2="215" y2="280" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="247" y="251" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">planning request</text>
+<text x="247" y="269" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">(goal + attributes)</text>
+
+<line x1="215" y1="410" x2="215" y2="465" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="236" y="444" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">plan</text>
+
+<line x1="375" y1="530" x2="525" y2="530" stroke="#C62828" stroke-width="2.4" marker-end="url(#arrowRed)"/>
+<text x="410" y="518" font-family="Arial, sans-serif" font-size="13" fill="#B91C1C">invalid target</text>
+
+<!-- Replanning trigger and rollback flow -->
+<polyline points="685,465 685,75 215,75 215,95" fill="none" stroke="#C62828" stroke-width="2.2" stroke-dasharray="8 6" marker-end="url(#arrowRed)"/>
+<text x="450" y="67" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#B91C1C">replan request</text>
+
+<polyline points="685,595 685,1235 215,1235 215,1195" fill="none" stroke="#C62828" stroke-width="2.4" marker-end="url(#arrowRed)"/>
+<text x="450" y="1225" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#B91C1C">release resources / revert reservations</text>
+
+<!-- Planning snapshot and state updates -->
+<polyline points="105,1030 105,965 25,965 25,345 55,345" fill="none" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="44" y="659" font-family="Arial, sans-serif" font-size="13" fill="#0F172A" transform="rotate(-90 44 659)">planning snapshot</text>
+
+<polyline points="135,595 135,690 35,690 35,1110 55,1110" fill="none" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="57" y="900" font-family="Arial, sans-serif" font-size="13" fill="#0F172A" transform="rotate(-90 57 900)">state updates</text>
+
+<!-- Executor to resources access attempt/result -->
+<polyline points="285,595 285,660 625,660 625,730" fill="none" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="458" y="649" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">attempt access</text>
+
+<polyline points="745,730 745,635 335,635 335,595" fill="none" stroke="#0F172A" stroke-width="2.2" stroke-dasharray="8 6" marker-end="url(#arrowDark)"/>
+<text x="540" y="623" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">access result (admit / reject)</text>
+
+<!-- World, mediator, and resource feedback loop -->
+<line x1="375" y1="812" x2="525" y2="812" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="450" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">apply rules</text>
+<text x="450" y="813" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">and constraints</text>
+
+<line x1="525" y1="852" x2="375" y2="852" stroke="#0F172A" stroke-width="2.2" stroke-dasharray="8 6" marker-end="url(#arrowDark)"/>
+<text x="450" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">resource events</text>
+
+<line x1="170" y1="1030" x2="170" y2="895" stroke="#0F172A" stroke-width="2.2" marker-end="url(#arrowDark)"/>
+<text x="202" y="965" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">queue state</text>
+<text x="202" y="983" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">(orders, priorities)</text>
+
+<line x1="265" y1="895" x2="265" y2="1030" stroke="#0F172A" stroke-width="2.2" stroke-dasharray="8 6" marker-end="url(#arrowDark)"/>
+<text x="296" y="965" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">state change</text>
+<text x="296" y="983" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">(increment version)</text>
+
+<!-- Legend -->
+<rect x="65" y="1295" width="770" height="88" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="95" y1="1325" x2="155" y2="1325" stroke="#0F172A" stroke-width="2.4" marker-end="url(#arrowDark)"/>
+<text x="175" y="1330" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">Information / Control Flow</text>
+
+<line x1="95" y1="1360" x2="155" y2="1360" stroke="#0F172A" stroke-width="2.4" stroke-dasharray="8 6" marker-end="url(#arrowDark)"/>
+<text x="175" y="1365" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">Feedback / Events</text>
+
+<line x1="455" y1="1325" x2="515" y2="1325" stroke="#C62828" stroke-width="2.4" marker-end="url(#arrowRed)"/>
+<text x="535" y="1330" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">Rollback / Replanning Flow</text>
+
+<line x1="455" y1="1360" x2="515" y2="1360" stroke="#C62828" stroke-width="2.4" stroke-dasharray="8 6" marker-end="url(#arrowRed)"/>
+<text x="535" y="1365" font-family="Arial, sans-serif" font-size="13" fill="#0F172A">Replanning Trigger</text>
+</svg>

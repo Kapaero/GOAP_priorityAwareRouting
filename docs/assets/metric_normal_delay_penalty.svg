@@ -1,0 +1,52 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="500" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Normal Patient Delay Penalty of Proposed Controller</text>
+<line x1="90" y1="530" x2="820" y2="530" stroke="#111827" stroke-width="1.6"/>
+<line x1="90" y1="70" x2="90" y2="530" stroke="#111827" stroke-width="1.6"/>
+<line x1="90" y1="530" x2="820" y2="530" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="534" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">-1.0</text>
+<line x1="90" y1="438" x2="820" y2="438" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="442" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.2</text>
+<line x1="90" y1="346" x2="820" y2="346" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="350" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">1.4</text>
+<line x1="90" y1="254" x2="820" y2="254" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="258" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">2.5</text>
+<line x1="90" y1="162" x2="820" y2="162" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="166" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">3.7</text>
+<line x1="90" y1="70" x2="820" y2="70" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="74" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">4.9</text>
+<line x1="90" y1="530" x2="90" y2="536" stroke="#111827"/>
+<text x="90" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">2.00</text>
+<line x1="333.333333333333" y1="530" x2="333.333333333333" y2="536" stroke="#111827"/>
+<text x="333.333333333333" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.50</text>
+<line x1="576.666666666667" y1="530" x2="576.666666666667" y2="536" stroke="#111827"/>
+<text x="576.666666666667" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.25</text>
+<line x1="820" y1="530" x2="820" y2="536" stroke="#111827"/>
+<text x="820" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.00</text>
+<text x="455" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">Arrival time multiplier (lower = higher arrival density)</text>
+<text x="24" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827" transform="rotate(-90 24 300)">Penalty vs baseline average (min)</text>
+<polyline points="90,293.762711864407 333.333333333333,342.101694915254 576.666666666667,355.35593220339 820,503.491525423729" fill="none" stroke="#DC2626" stroke-width="3"/>
+<circle cx="90" cy="293.762711864407" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="90" y="283.762711864407" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">2.0</text>
+<circle cx="333.333333333333" cy="342.101694915254" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="333.333333333333" y="332.101694915254" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">1.4</text>
+<circle cx="576.666666666667" cy="355.35593220339" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="576.666666666667" y="345.35593220339" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">1.2</text>
+<circle cx="820" cy="503.491525423729" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="820" y="493.491525423729" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">-0.7</text>
+<polyline points="90,112.881355932203 333.333333333333,203.322033898305 576.666666666667,321.830508474576 820,564.305084745763" fill="none" stroke="#F97316" stroke-width="3"/>
+<circle cx="90" cy="112.881355932203" r="5" fill="#FFFFFF" stroke="#F97316" stroke-width="3"/>
+<text x="90" y="102.881355932203" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F97316">4.4</text>
+<circle cx="333.333333333333" cy="203.322033898305" r="5" fill="#FFFFFF" stroke="#F97316" stroke-width="3"/>
+<text x="333.333333333333" y="193.322033898305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F97316">3.2</text>
+<circle cx="576.666666666667" cy="321.830508474576" r="5" fill="#FFFFFF" stroke="#F97316" stroke-width="3"/>
+<text x="576.666666666667" y="311.830508474576" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F97316">1.7</text>
+<circle cx="820" cy="564.305084745763" r="5" fill="#FFFFFF" stroke="#F97316" stroke-width="3"/>
+<text x="820" y="554.305084745763" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F97316">-1.4</text>
+<line x1="855" y1="90" x2="885" y2="90" stroke="#DC2626" stroke-width="3"/>
+<circle cx="870" cy="90" r="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="895" y="94" font-family="Arial, sans-serif" font-size="13" fill="#111827">Mean normal delay penalty</text>
+<line x1="855" y1="114" x2="885" y2="114" stroke="#F97316" stroke-width="3"/>
+<circle cx="870" cy="114" r="4" fill="#FFFFFF" stroke="#F97316" stroke-width="2"/>
+<text x="895" y="118" font-family="Arial, sans-serif" font-size="13" fill="#111827">P95 normal delay penalty</text>
+</svg>

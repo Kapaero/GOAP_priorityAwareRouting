@@ -1,0 +1,22 @@
+flowchart LR
+    Agent["Patient Agent"]
+    View["Personalized World-State Transformation"]
+    Planner["GOAP Planner"]
+    Executor["Action Executor"]
+    Rollback["Emergency Rollback"]
+    World["Shared World State"]
+    Manager["Environment Manager"]
+    Resources["Hospital Resources"]
+
+    Agent -->|"agent context"| View
+    World -->|"shared state"| View
+    View -->|"personalized snapshot"| Planner
+    Planner -->|"plan"| Executor
+    Executor -->|"effects"| World
+    Executor -->|"invalid target"| Rollback
+    Rollback -->|"rollback"| World
+    Rollback -->|"replan"| Agent
+    World -->|"queue / occupancy"| Manager
+    Manager -->|"state changes"| World
+    Manager -->|"availability"| Resources
+    Executor -->|"uses"| Resources

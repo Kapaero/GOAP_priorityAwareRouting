@@ -1,0 +1,149 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="720" viewBox="0 0 1260 720">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="630" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111827">Normal Patients: Time to Assessment</text>
+<text x="630" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#475569">Boxes show median and IQR; whiskers show 5th-95th percentiles.</text>
+<line x1="92" y1="608" x2="1080" y2="608" stroke="#111827" stroke-width="1.6"/>
+<line x1="92" y1="76" x2="92" y2="608" stroke="#111827" stroke-width="1.6"/>
+<line x1="92" y1="608" x2="1080" y2="608" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="612" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.0</text>
+<line x1="92" y1="501.6" x2="1080" y2="501.6" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="505.6" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">7.0</text>
+<line x1="92" y1="395.2" x2="1080" y2="395.2" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="399.2" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">14.0</text>
+<line x1="92" y1="288.8" x2="1080" y2="288.8" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="292.8" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">21.0</text>
+<line x1="92" y1="182.4" x2="1080" y2="182.4" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="186.4" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">28.0</text>
+<line x1="92" y1="76" x2="1080" y2="76" stroke="#E5E7EB" stroke-width="1"/>
+<text x="80" y="80" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">35.0</text>
+<text x="215.5" y="646" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">2.00</text>
+<text x="215.5" y="666" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">arrival multiplier</text>
+<line x1="164.5" y1="414.378752" x2="164.5" y2="428.49028" stroke="#64748B" stroke-width="2"/>
+<line x1="164.5" y1="593.066" x2="164.5" y2="599.48952" stroke="#64748B" stroke-width="2"/>
+<line x1="154.5" y1="414.378752" x2="174.5" y2="414.378752" stroke="#64748B" stroke-width="2"/>
+<line x1="154.5" y1="599.48952" x2="174.5" y2="599.48952" stroke="#64748B" stroke-width="2"/>
+<rect x="151.5" y="428.49028" width="26" height="164.57572" fill="#64748B" fill-opacity="0.18" stroke="#64748B" stroke-width="2"/>
+<line x1="151.5" y1="512.526266666667" x2="177.5" y2="512.526266666667" stroke="#64748B" stroke-width="3"/>
+<circle cx="164.5" cy="510.436589585122" r="3.5" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/>
+<line x1="198.5" y1="420.660506666667" x2="198.5" y2="432.584906666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="198.5" y1="589.938346666667" x2="198.5" y2="599.365234666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="188.5" y1="420.660506666667" x2="208.5" y2="420.660506666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="188.5" y1="599.365234666667" x2="208.5" y2="599.365234666667" stroke="#2563EB" stroke-width="2"/>
+<rect x="185.5" y="432.584906666667" width="26" height="157.35344" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="2"/>
+<line x1="185.5" y1="520.852826666667" x2="211.5" y2="520.852826666667" stroke="#2563EB" stroke-width="3"/>
+<circle cx="198.5" cy="512.703204234621" r="3.5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<line x1="232.5" y1="413.232064" x2="232.5" y2="426.824106666667" stroke="#7C3AED" stroke-width="2"/>
+<line x1="232.5" y1="592.26572" x2="232.5" y2="599.099184" stroke="#7C3AED" stroke-width="2"/>
+<line x1="222.5" y1="413.232064" x2="242.5" y2="413.232064" stroke="#7C3AED" stroke-width="2"/>
+<line x1="222.5" y1="599.099184" x2="242.5" y2="599.099184" stroke="#7C3AED" stroke-width="2"/>
+<rect x="219.5" y="426.824106666667" width="26" height="165.441613333333" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED" stroke-width="2"/>
+<line x1="219.5" y1="502.59788" x2="245.5" y2="502.59788" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="232.5" cy="509.53764658083" r="3.5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<line x1="266.5" y1="350.779216" x2="266.5" y2="386.59224" stroke="#DC2626" stroke-width="2"/>
+<line x1="266.5" y1="586.43804" x2="266.5" y2="596.677773333333" stroke="#DC2626" stroke-width="2"/>
+<line x1="256.5" y1="350.779216" x2="276.5" y2="350.779216" stroke="#DC2626" stroke-width="2"/>
+<line x1="256.5" y1="596.677773333333" x2="276.5" y2="596.677773333333" stroke="#DC2626" stroke-width="2"/>
+<rect x="253.5" y="386.59224" width="26" height="199.8458" fill="#DC2626" fill-opacity="0.18" stroke="#DC2626" stroke-width="2"/>
+<line x1="253.5" y1="468.722146666667" x2="279.5" y2="468.722146666667" stroke="#DC2626" stroke-width="3"/>
+<circle cx="266.5" cy="479.994176366237" r="3.5" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="462.5" y="646" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">1.50</text>
+<text x="462.5" y="666" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">arrival multiplier</text>
+<line x1="411.5" y1="323.122562666667" x2="411.5" y2="356.641146666667" stroke="#64748B" stroke-width="2"/>
+<line x1="411.5" y1="589.388866666667" x2="411.5" y2="598.232936" stroke="#64748B" stroke-width="2"/>
+<line x1="401.5" y1="323.122562666667" x2="421.5" y2="323.122562666667" stroke="#64748B" stroke-width="2"/>
+<line x1="401.5" y1="598.232936" x2="421.5" y2="598.232936" stroke="#64748B" stroke-width="2"/>
+<rect x="398.5" y="356.641146666667" width="26" height="232.74772" fill="#64748B" fill-opacity="0.18" stroke="#64748B" stroke-width="2"/>
+<line x1="398.5" y1="428.53284" x2="424.5" y2="428.53284" stroke="#64748B" stroke-width="3"/>
+<circle cx="411.5" cy="459.179313762518" r="3.5" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/>
+<line x1="445.5" y1="313.660106666667" x2="445.5" y2="343.430826666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="445.5" y1="582.815626666667" x2="445.5" y2="598.627578666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="435.5" y1="313.660106666667" x2="455.5" y2="313.660106666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="435.5" y1="598.627578666667" x2="455.5" y2="598.627578666667" stroke="#2563EB" stroke-width="2"/>
+<rect x="432.5" y="343.430826666667" width="26" height="239.3848" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="2"/>
+<line x1="432.5" y1="420.350426666667" x2="458.5" y2="420.350426666667" stroke="#2563EB" stroke-width="3"/>
+<circle cx="445.5" cy="449.425429184549" r="3.5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<line x1="479.5" y1="328.316504" x2="479.5" y2="359.957026666667" stroke="#7C3AED" stroke-width="2"/>
+<line x1="479.5" y1="590.889613333333" x2="479.5" y2="598.809066666667" stroke="#7C3AED" stroke-width="2"/>
+<line x1="469.5" y1="328.316504" x2="489.5" y2="328.316504" stroke="#7C3AED" stroke-width="2"/>
+<line x1="469.5" y1="598.809066666667" x2="489.5" y2="598.809066666667" stroke="#7C3AED" stroke-width="2"/>
+<rect x="466.5" y="359.957026666667" width="26" height="230.932586666667" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED" stroke-width="2"/>
+<line x1="466.5" y1="438.912413333333" x2="492.5" y2="438.912413333333" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="479.5" cy="461.473802689557" r="3.5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<line x1="513.5" y1="274.943528" x2="513.5" y2="329.052893333333" stroke="#DC2626" stroke-width="2"/>
+<line x1="513.5" y1="582.041693333333" x2="513.5" y2="597.127744" stroke="#DC2626" stroke-width="2"/>
+<line x1="503.5" y1="274.943528" x2="523.5" y2="274.943528" stroke="#DC2626" stroke-width="2"/>
+<line x1="503.5" y1="597.127744" x2="523.5" y2="597.127744" stroke="#DC2626" stroke-width="2"/>
+<rect x="500.5" y="329.052893333333" width="26" height="252.9888" fill="#DC2626" fill-opacity="0.18" stroke="#DC2626" stroke-width="2"/>
+<line x1="500.5" y1="399.07296" x2="526.5" y2="399.07296" stroke="#DC2626" stroke-width="3"/>
+<circle cx="513.5" cy="435.337885436338" r="3.5" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="709.5" y="646" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">1.25</text>
+<text x="709.5" y="666" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">arrival multiplier</text>
+<line x1="658.5" y1="273.869192" x2="658.5" y2="315.629266666667" stroke="#64748B" stroke-width="2"/>
+<line x1="658.5" y1="578.579386666667" x2="658.5" y2="598.799136" stroke="#64748B" stroke-width="2"/>
+<line x1="648.5" y1="273.869192" x2="668.5" y2="273.869192" stroke="#64748B" stroke-width="2"/>
+<line x1="648.5" y1="598.799136" x2="668.5" y2="598.799136" stroke="#64748B" stroke-width="2"/>
+<rect x="645.5" y="315.629266666667" width="26" height="262.95012" fill="#64748B" fill-opacity="0.18" stroke="#64748B" stroke-width="2"/>
+<line x1="645.5" y1="404.207266666667" x2="671.5" y2="404.207266666667" stroke="#64748B" stroke-width="3"/>
+<circle cx="658.5" cy="429.311437711016" r="3.5" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/>
+<line x1="692.5" y1="277.260109333333" x2="692.5" y2="319.099933333333" stroke="#2563EB" stroke-width="2"/>
+<line x1="692.5" y1="571.39004" x2="692.5" y2="598.928893333333" stroke="#2563EB" stroke-width="2"/>
+<line x1="682.5" y1="277.260109333333" x2="702.5" y2="277.260109333333" stroke="#2563EB" stroke-width="2"/>
+<line x1="682.5" y1="598.928893333333" x2="702.5" y2="598.928893333333" stroke="#2563EB" stroke-width="2"/>
+<rect x="679.5" y="319.099933333333" width="26" height="252.290106666667" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="2"/>
+<line x1="679.5" y1="402.471426666667" x2="705.5" y2="402.471426666667" stroke="#2563EB" stroke-width="3"/>
+<circle cx="692.5" cy="427.968482918455" r="3.5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<line x1="726.5" y1="261.123384" x2="726.5" y2="306.294946666667" stroke="#7C3AED" stroke-width="2"/>
+<line x1="726.5" y1="580.598706666667" x2="726.5" y2="599.369389333333" stroke="#7C3AED" stroke-width="2"/>
+<line x1="716.5" y1="261.123384" x2="736.5" y2="261.123384" stroke="#7C3AED" stroke-width="2"/>
+<line x1="716.5" y1="599.369389333333" x2="736.5" y2="599.369389333333" stroke="#7C3AED" stroke-width="2"/>
+<rect x="713.5" y="306.294946666667" width="26" height="274.30376" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED" stroke-width="2"/>
+<line x1="713.5" y1="391.137293333333" x2="739.5" y2="391.137293333333" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="726.5" cy="422.540155193133" r="3.5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<line x1="760.5" y1="245.390776" x2="760.5" y2="297.07108" stroke="#DC2626" stroke-width="2"/>
+<line x1="760.5" y1="535.276106666667" x2="760.5" y2="597.847818666667" stroke="#DC2626" stroke-width="2"/>
+<line x1="750.5" y1="245.390776" x2="770.5" y2="245.390776" stroke="#DC2626" stroke-width="2"/>
+<line x1="750.5" y1="597.847818666667" x2="770.5" y2="597.847818666667" stroke="#DC2626" stroke-width="2"/>
+<rect x="747.5" y="297.07108" width="26" height="238.205026666667" fill="#DC2626" fill-opacity="0.18" stroke="#DC2626" stroke-width="2"/>
+<line x1="747.5" y1="397.580066666667" x2="773.5" y2="397.580066666667" stroke="#DC2626" stroke-width="3"/>
+<circle cx="760.5" cy="407.842318397711" r="3.5" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="956.5" y="646" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">1.00</text>
+<text x="956.5" y="666" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">arrival multiplier</text>
+<line x1="905.5" y1="182.973496" x2="905.5" y2="243.629906666667" stroke="#64748B" stroke-width="2"/>
+<line x1="905.5" y1="539.561493333333" x2="905.5" y2="598.142090666667" stroke="#64748B" stroke-width="2"/>
+<line x1="895.5" y1="182.973496" x2="915.5" y2="182.973496" stroke="#64748B" stroke-width="2"/>
+<line x1="895.5" y1="598.142090666667" x2="915.5" y2="598.142090666667" stroke="#64748B" stroke-width="2"/>
+<rect x="892.5" y="243.629906666667" width="26" height="295.931586666667" fill="#64748B" fill-opacity="0.18" stroke="#64748B" stroke-width="2"/>
+<line x1="892.5" y1="344.924986666667" x2="918.5" y2="344.924986666667" stroke="#64748B" stroke-width="3"/>
+<circle cx="905.5" cy="373.122470786838" r="3.5" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/>
+<line x1="939.5" y1="216.074637333333" x2="939.5" y2="266.277146666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="939.5" y1="542.571093333333" x2="939.5" y2="599.189066666667" stroke="#2563EB" stroke-width="2"/>
+<line x1="929.5" y1="216.074637333333" x2="949.5" y2="216.074637333333" stroke="#2563EB" stroke-width="2"/>
+<line x1="929.5" y1="599.189066666667" x2="949.5" y2="599.189066666667" stroke="#2563EB" stroke-width="2"/>
+<rect x="926.5" y="266.277146666667" width="26" height="276.293946666667" fill="#2563EB" fill-opacity="0.18" stroke="#2563EB" stroke-width="2"/>
+<line x1="926.5" y1="356.063546666667" x2="952.5" y2="356.063546666667" stroke="#2563EB" stroke-width="3"/>
+<circle cx="939.5" cy="391.152036680973" r="3.5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<line x1="973.5" y1="203.930141333333" x2="973.5" y2="262.915413333333" stroke="#7C3AED" stroke-width="2"/>
+<line x1="973.5" y1="542.771733333333" x2="973.5" y2="599.081450666667" stroke="#7C3AED" stroke-width="2"/>
+<line x1="963.5" y1="203.930141333333" x2="983.5" y2="203.930141333333" stroke="#7C3AED" stroke-width="2"/>
+<line x1="963.5" y1="599.081450666667" x2="983.5" y2="599.081450666667" stroke="#7C3AED" stroke-width="2"/>
+<rect x="960.5" y="262.915413333333" width="26" height="279.85632" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED" stroke-width="2"/>
+<line x1="960.5" y1="343.750026666667" x2="986.5" y2="343.750026666667" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="973.5" cy="381.737002288984" r="3.5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<line x1="1007.5" y1="222.267826666667" x2="1007.5" y2="269.469653333333" stroke="#DC2626" stroke-width="2"/>
+<line x1="1007.5" y1="518.2326" x2="1007.5" y2="597.312272" stroke="#DC2626" stroke-width="2"/>
+<line x1="997.5" y1="222.267826666667" x2="1017.5" y2="222.267826666667" stroke="#DC2626" stroke-width="2"/>
+<line x1="997.5" y1="597.312272" x2="1017.5" y2="597.312272" stroke="#DC2626" stroke-width="2"/>
+<rect x="994.5" y="269.469653333333" width="26" height="248.762946666667" fill="#DC2626" fill-opacity="0.18" stroke="#DC2626" stroke-width="2"/>
+<line x1="994.5" y1="358.358746666667" x2="1020.5" y2="358.358746666667" stroke="#DC2626" stroke-width="3"/>
+<circle cx="1007.5" cy="391.976959599428" r="3.5" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="586" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">Lower arrival multiplier means denser workload.</text>
+<text x="24" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827" transform="rotate(-90 24 342)">Time to assessment (min)</text>
+<rect x="1114" y="82" width="18" height="12" fill="#64748B" fill-opacity="0.22" stroke="#64748B" stroke-width="2"/>
+<text x="1140" y="93" font-family="Arial, sans-serif" font-size="13" fill="#111827">FSM</text>
+<rect x="1114" y="107" width="18" height="12" fill="#2563EB" fill-opacity="0.22" stroke="#2563EB" stroke-width="2"/>
+<text x="1140" y="118" font-family="Arial, sans-serif" font-size="13" fill="#111827">Priority dispatcher</text>
+<rect x="1114" y="132" width="18" height="12" fill="#7C3AED" fill-opacity="0.22" stroke="#7C3AED" stroke-width="2"/>
+<text x="1140" y="143" font-family="Arial, sans-serif" font-size="13" fill="#111827">Decision table</text>
+<rect x="1114" y="157" width="18" height="12" fill="#DC2626" fill-opacity="0.22" stroke="#DC2626" stroke-width="2"/>
+<text x="1140" y="168" font-family="Arial, sans-serif" font-size="13" fill="#111827">Proposed GOAP</text>
+</svg>

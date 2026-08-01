@@ -1,0 +1,22 @@
+flowchart TB
+    Agent["Patient Agent<br/>priority, state, goal, attributes"]
+    Planner["GOAP Planner<br/>plan generation over snapshot"]
+    Executor["Action Executor<br/>executes actions in the environment"]
+    Rollback["Rollback & Replanning<br/>rollback, release, and replan"]
+    Mediator["Environment Mediator<br/>applies rules and updates accessibility"]
+    Resources["Hospital Resources<br/>conditional access filters"]
+    World["Shared World State<br/>resources, queues, flags, version"]
+
+    Agent -->|"planning request"| Planner
+    Planner -->|"plan"| Executor
+    Executor -->|"invalid target"| Rollback
+    Rollback -.->|"replan request"| Agent
+    Rollback -->|"release resources"| World
+    Executor -->|"state updates"| World
+    World -->|"planning snapshot"| Planner
+    World -->|"queue state"| Mediator
+    Mediator -.->|"state change"| World
+    Mediator -->|"apply rules"| Resources
+    Resources -.->|"resource events"| Mediator
+    Executor -->|"attempt access"| Resources
+    Resources -.->|"access result"| Executor

@@ -1,0 +1,76 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="500" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Completion Time by Workload Density</text>
+<line x1="90" y1="530" x2="820" y2="530" stroke="#111827" stroke-width="1.6"/>
+<line x1="90" y1="70" x2="90" y2="530" stroke="#111827" stroke-width="1.6"/>
+<line x1="90" y1="530" x2="820" y2="530" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="534" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">0.0</text>
+<line x1="90" y1="438" x2="820" y2="438" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="442" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">13.7</text>
+<line x1="90" y1="346" x2="820" y2="346" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="350" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">27.5</text>
+<line x1="90" y1="254" x2="820" y2="254" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="258" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">41.2</text>
+<line x1="90" y1="162" x2="820" y2="162" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="166" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">55.0</text>
+<line x1="90" y1="70" x2="820" y2="70" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="74" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#374151">68.7</text>
+<line x1="90" y1="530" x2="90" y2="536" stroke="#111827"/>
+<text x="90" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">2.00</text>
+<line x1="333.333333333333" y1="530" x2="333.333333333333" y2="536" stroke="#111827"/>
+<text x="333.333333333333" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.50</text>
+<line x1="576.666666666667" y1="530" x2="576.666666666667" y2="536" stroke="#111827"/>
+<text x="576.666666666667" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.25</text>
+<line x1="820" y1="530" x2="820" y2="536" stroke="#111827"/>
+<text x="820" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111827">1.00</text>
+<text x="455" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">Arrival time multiplier (lower = higher arrival density)</text>
+<text x="24" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827" transform="rotate(-90 24 300)">Completion time (min)</text>
+<polyline points="90,155.376870451237 333.333333333333,173.570752062106 576.666666666667,182.978655992237 820,173.936229985444" fill="none" stroke="#64748B" stroke-width="3"/>
+<circle cx="90" cy="155.376870451237" r="5" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+<text x="90" y="145.376870451237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">55.9</text>
+<circle cx="333.333333333333" cy="173.570752062106" r="5" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+<text x="333.333333333333" y="163.570752062106" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">53.2</text>
+<circle cx="576.666666666667" cy="182.978655992237" r="5" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+<text x="576.666666666667" y="172.978655992237" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">51.8</text>
+<circle cx="820" cy="173.936229985444" r="5" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+<text x="820" y="163.936229985444" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">53.2</text>
+<polyline points="90,159.158534691897 333.333333333333,168.764522076662 576.666666666667,187.468398835517 820,189.668743328481" fill="none" stroke="#2563EB" stroke-width="3"/>
+<circle cx="90" cy="159.158534691897" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+<text x="90" y="149.158534691897" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2563EB">55.4</text>
+<circle cx="333.333333333333" cy="168.764522076662" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+<text x="333.333333333333" y="158.764522076662" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2563EB">53.9</text>
+<circle cx="576.666666666667" cy="187.468398835517" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+<text x="576.666666666667" y="177.468398835517" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2563EB">51.2</text>
+<circle cx="820" cy="189.668743328481" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+<text x="820" y="179.668743328481" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#2563EB">50.8</text>
+<polyline points="90,157.746618146531 333.333333333333,177.329985443959 576.666666666667,181.604124211548 820,183.523915574964" fill="none" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="90" cy="157.746618146531" r="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+<text x="90" y="147.746618146531" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7C3AED">55.6</text>
+<circle cx="333.333333333333" cy="177.329985443959" r="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+<text x="333.333333333333" y="167.329985443959" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7C3AED">52.7</text>
+<circle cx="576.666666666667" cy="181.604124211548" r="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+<text x="576.666666666667" y="171.604124211548" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7C3AED">52.0</text>
+<circle cx="820" cy="183.523915574964" r="5" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+<text x="820" y="173.523915574964" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7C3AED">51.7</text>
+<polyline points="90,119.805992236778 333.333333333333,144.870858806405 576.666666666667,165.094007763222 820,189.773309073265" fill="none" stroke="#DC2626" stroke-width="3"/>
+<circle cx="90" cy="119.805992236778" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="90" y="109.805992236778" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">61.3</text>
+<circle cx="333.333333333333" cy="144.870858806405" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="333.333333333333" y="134.870858806405" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">57.5</text>
+<circle cx="576.666666666667" cy="165.094007763222" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="576.666666666667" y="155.094007763222" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">54.5</text>
+<circle cx="820" cy="189.773309073265" r="5" fill="#FFFFFF" stroke="#DC2626" stroke-width="3"/>
+<text x="820" y="179.773309073265" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#DC2626">50.8</text>
+<line x1="855" y1="90" x2="885" y2="90" stroke="#64748B" stroke-width="3"/>
+<circle cx="870" cy="90" r="4" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/>
+<text x="895" y="94" font-family="Arial, sans-serif" font-size="13" fill="#111827">FSM</text>
+<line x1="855" y1="114" x2="885" y2="114" stroke="#2563EB" stroke-width="3"/>
+<circle cx="870" cy="114" r="4" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="895" y="118" font-family="Arial, sans-serif" font-size="13" fill="#111827">Priority dispatcher</text>
+<line x1="855" y1="138" x2="885" y2="138" stroke="#7C3AED" stroke-width="3"/>
+<circle cx="870" cy="138" r="4" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="895" y="142" font-family="Arial, sans-serif" font-size="13" fill="#111827">Decision table</text>
+<line x1="855" y1="162" x2="885" y2="162" stroke="#DC2626" stroke-width="3"/>
+<circle cx="870" cy="162" r="4" fill="#FFFFFF" stroke="#DC2626" stroke-width="2"/>
+<text x="895" y="166" font-family="Arial, sans-serif" font-size="13" fill="#111827">Proposed GOAP</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="650" viewBox="0 0 1250 650">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+</marker>
+<marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#B91C1C"/>
+</marker>
+</defs>
+
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="625" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Personalized Environment-Mediated GOAP Architecture</text>
+
+<rect x="55" y="85" width="1135" height="155" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="75" y="112" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Agent-specific planning layer</text>
+
+<rect x="55" y="360" width="1135" height="165" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="75" y="387" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#475569">Shared environment layer</text>
+
+<rect x="80" y="130" width="190" height="75" rx="6" fill="#EFF6FF" stroke="#2F6FA3" stroke-width="2"/>
+<text x="175" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">Patient Agent</text>
+
+<rect x="350" y="120" width="245" height="95" rx="6" fill="#ECFDF5" stroke="#4F9D69" stroke-width="2.4"/>
+<text x="472.5" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">
+<tspan x="472.5" dy="0">Personalized</tspan>
+<tspan x="472.5" dy="20">World-State View</tspan>
+</text>
+<text x="472.5" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">priority, goal, route context</text>
+
+<rect x="675" y="130" width="190" height="75" rx="6" fill="#EFF6FF" stroke="#4E79A7" stroke-width="2"/>
+<text x="770" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">GOAP Planner</text>
+
+<rect x="955" y="130" width="190" height="75" rx="6" fill="#FFF7ED" stroke="#D98C28" stroke-width="2"/>
+<text x="1050" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">Action Executor</text>
+
+<rect x="80" y="410" width="220" height="80" rx="6" fill="#F0FDF4" stroke="#4F9D69" stroke-width="2"/>
+<text x="190" y="457" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">Shared World State</text>
+
+<rect x="400" y="410" width="220" height="80" rx="6" fill="#FEF2F2" stroke="#C85A54" stroke-width="2"/>
+<text x="510" y="447" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">
+<tspan x="510" dy="0">Environment</tspan>
+<tspan x="510" dy="20">Manager</tspan>
+</text>
+
+<rect x="720" y="410" width="220" height="80" rx="6" fill="#FFF7ED" stroke="#D98C28" stroke-width="2"/>
+<text x="830" y="457" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">Hospital Resources</text>
+
+<rect x="970" y="410" width="190" height="80" rx="6" fill="#FEF2F2" stroke="#C85A54" stroke-width="2"/>
+<text x="1065" y="447" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1F2937">
+<tspan x="1065" dy="0">Emergency</tspan>
+<tspan x="1065" dy="20">Rollback</tspan>
+</text>
+
+<line x1="270" y1="167" x2="350" y2="167" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="310" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">agent context</text>
+
+<line x1="595" y1="167" x2="675" y2="167" stroke="#334155" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="635" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">personalized snapshot</text>
+
+<line x1="865" y1="167" x2="955" y2="167" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="910" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">plan</text>
+
+<polyline points="190,410 190,295 472,295 472,215" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="335" y="284" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">shared state</text>
+
+<polyline points="1050,205 1050,285 235,285 235,410" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="640" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">action effects</text>
+
+<line x1="300" y1="435" x2="400" y2="435" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="350" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">queue / occupancy</text>
+
+<line x1="400" y1="465" x2="300" y2="465" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="350" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">state change</text>
+
+<line x1="620" y1="450" x2="720" y2="450" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="670" y="439" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">availability</text>
+
+<polyline points="1050,205 1050,320 830,320 830,410" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="940" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">uses</text>
+
+<line x1="1050" y1="205" x2="1065" y2="410" stroke="#B91C1C" stroke-width="2.2" marker-end="url(#arrowRed)"/>
+<text x="1094" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C" transform="rotate(85 1094 308)">invalid target</text>
+
+<polyline points="970,450 670,450 670,535 190,535 190,490" fill="none" stroke="#B91C1C" stroke-width="2.2" marker-end="url(#arrowRed)"/>
+<text x="580" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">rollback resources</text>
+
+<polyline points="1065,410 1065,75 175,75 175,130" fill="none" stroke="#B91C1C" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#arrowRed)"/>
+<text x="620" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#B91C1C">replan request</text>
+</svg>

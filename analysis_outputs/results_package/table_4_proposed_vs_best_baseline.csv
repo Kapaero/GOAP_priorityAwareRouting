@@ -1,0 +1,5 @@
+﻿"Arrival multiplier","Best baseline critical mean","Critical mean: proposed vs best baseline (min)","Critical mean improvement (%)","Best baseline critical P95","Critical P95: proposed vs best baseline (min)","Critical P95 improvement (%)","Best baseline finish","Finish time: proposed vs best baseline (min)","Finish-time improvement (%)"
+"2.00","FSM","1.32 vs 0.97","-36.1","FSM","2.72 vs 1.67","-62.9","Priority dispatcher","61.26 vs 55.38","-10.6"
+"1.50","Decision table","1.43 vs 1.14","-25.4","Decision table","2.85 vs 1.85","-54.1","Decision table","57.52 vs 52.67","-9.2"
+"1.25","FSM","1.44 vs 1.32","-9.1","Decision table","2.89 vs 2.57","-12.5","Priority dispatcher","54.50 vs 51.16","-6.5"
+"1.00","Priority dispatcher","1.35 vs 1.55","12.9","Priority dispatcher","2.61 vs 3.24","19.4","Priority dispatcher","50.81 vs 50.83","0.0"
