@@ -1,0 +1,10 @@
+quantity,NHAMCS (weighted pool),cohorts (n=4800),note
+critical share (IMMEDR 1-2),0.1463,0.1469,per-cohort sd 0.0199 vs binomial 0.0204
+IMMEDR 1 share,0.0113,0.0129,
+IMMEDR 2 share,0.135,0.134,
+IMMEDR 3 share,0.4805,0.4729,
+IMMEDR 4 share,0.3239,0.3298,
+IMMEDR 5 share,0.0493,0.0504,
+hourly arrival profile,peak x1.50 @11:00,peak x1.64 @11:00,"max |diff| 0.77 pp, r=0.9852, chi2=23.8 (23 df) p~0.41"
+ambulance share among critical,0.3473,0.3328,688 cohort patients with known mode
+ambulance share among other,0.131,0.125,4017 cohort patients with known mode

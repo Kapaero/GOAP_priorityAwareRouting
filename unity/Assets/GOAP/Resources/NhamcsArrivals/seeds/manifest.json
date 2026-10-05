@@ -1,0 +1,162 @@
+[
+ {
+  "seed": 0,
+  "file": "nhamcs_seed_00.csv",
+  "n": 300,
+  "critical": 56,
+  "critical_share": 0.1867,
+  "ambulance_share": 0.16,
+  "first_arrival_s": 2.04,
+  "last_arrival_s": 1192.15
+ },
+ {
+  "seed": 1,
+  "file": "nhamcs_seed_01.csv",
+  "n": 300,
+  "critical": 46,
+  "critical_share": 0.1533,
+  "ambulance_share": 0.1767,
+  "first_arrival_s": 5.43,
+  "last_arrival_s": 1191.49
+ },
+ {
+  "seed": 2,
+  "file": "nhamcs_seed_02.csv",
+  "n": 300,
+  "critical": 43,
+  "critical_share": 0.1433,
+  "ambulance_share": 0.15,
+  "first_arrival_s": 2.14,
+  "last_arrival_s": 1199.85
+ },
+ {
+  "seed": 3,
+  "file": "nhamcs_seed_03.csv",
+  "n": 300,
+  "critical": 40,
+  "critical_share": 0.1333,
+  "ambulance_share": 0.15,
+  "first_arrival_s": 2.94,
+  "last_arrival_s": 1182.4
+ },
+ {
+  "seed": 4,
+  "file": "nhamcs_seed_04.csv",
+  "n": 300,
+  "critical": 36,
+  "critical_share": 0.12,
+  "ambulance_share": 0.1433,
+  "first_arrival_s": 2.53,
+  "last_arrival_s": 1197.34
+ },
+ {
+  "seed": 5,
+  "file": "nhamcs_seed_05.csv",
+  "n": 300,
+  "critical": 42,
+  "critical_share": 0.14,
+  "ambulance_share": 0.17,
+  "first_arrival_s": 7.86,
+  "last_arrival_s": 1198.27
+ },
+ {
+  "seed": 6,
+  "file": "nhamcs_seed_06.csv",
+  "n": 300,
+  "critical": 49,
+  "critical_share": 0.1633,
+  "ambulance_share": 0.1533,
+  "first_arrival_s": 14.94,
+  "last_arrival_s": 1194.0
+ },
+ {
+  "seed": 7,
+  "file": "nhamcs_seed_07.csv",
+  "n": 300,
+  "critical": 39,
+  "critical_share": 0.13,
+  "ambulance_share": 0.1567,
+  "first_arrival_s": 7.6,
+  "last_arrival_s": 1180.55
+ },
+ {
+  "seed": 8,
+  "file": "nhamcs_seed_08.csv",
+  "n": 300,
+  "critical": 46,
+  "critical_share": 0.1533,
+  "ambulance_share": 0.1367,
+  "first_arrival_s": 1.05,
+  "last_arrival_s": 1194.95
+ },
+ {
+  "seed": 9,
+  "file": "nhamcs_seed_09.csv",
+  "n": 300,
+  "critical": 41,
+  "critical_share": 0.1367,
+  "ambulance_share": 0.17,
+  "first_arrival_s": 0.62,
+  "last_arrival_s": 1195.41
+ },
+ {
+  "seed": 10,
+  "file": "nhamcs_seed_10.csv",
+  "n": 300,
+  "critical": 37,
+  "critical_share": 0.1233,
+  "ambulance_share": 0.11,
+  "first_arrival_s": 11.0,
+  "last_arrival_s": 1190.62
+ },
+ {
+  "seed": 11,
+  "file": "nhamcs_seed_11.csv",
+  "n": 300,
+  "critical": 44,
+  "critical_share": 0.1467,
+  "ambulance_share": 0.14,
+  "first_arrival_s": 0.33,
+  "last_arrival_s": 1196.6
+ },
+ {
+  "seed": 12,
+  "file": "nhamcs_seed_12.csv",
+  "n": 300,
+  "critical": 46,
+  "critical_share": 0.1533,
+  "ambulance_share": 0.1733,
+  "first_arrival_s": 1.06,
+  "last_arrival_s": 1197.63
+ },
+ {
+  "seed": 13,
+  "file": "nhamcs_seed_13.csv",
+  "n": 300,
+  "critical": 55,
+  "critical_share": 0.1833,
+  "ambulance_share": 0.16,
+  "first_arrival_s": 31.12,
+  "last_arrival_s": 1195.52
+ },
+ {
+  "seed": 14,
+  "file": "nhamcs_seed_14.csv",
+  "n": 300,
+  "critical": 37,
+  "critical_share": 0.1233,
+  "ambulance_share": 0.1233,
+  "first_arrival_s": 2.09,
+  "last_arrival_s": 1177.47
+ },
+ {
+  "seed": 15,
+  "file": "nhamcs_seed_15.csv",
+  "n": 300,
+  "critical": 48,
+  "critical_share": 0.16,
+  "ambulance_share": 0.1633,
+  "first_arrival_s": 7.82,
+  "last_arrival_s": 1167.68
+ }
+]
