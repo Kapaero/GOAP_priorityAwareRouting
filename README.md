@@ -139,15 +139,6 @@ de-identified survey data; no patient identifiers are contained in this reposito
 
 ## Citation
 
-```bibtex
-@article{bondarenko2026environment,
-  title   = {Environment-Mediated Dynamic Route Planning for Priority-Aware Triage Routing},
-  author  = {Bondarenko, Gleb O. and Syryh, Alyona S. and Popova, Anastasia R.},
-  journal = {Journal of Information Processing},
-  year    = {2026}
-}
-```
-
 ## License
 
 Code and analysis scripts are released under the MIT License (see [`LICENSE`](LICENSE)). The
