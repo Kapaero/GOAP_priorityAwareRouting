@@ -22,10 +22,27 @@ a normal agent can see a *different* feasibility for the same corridor at the sa
 The GOAP agent uses this priority-conditioned feasibility both when it builds a plan and when
 it executes each action, and replans whenever its plan is invalidated.
 
-The baselines work in the same mediated environment but without priority-conditioned access:
-a closed route is closed for every patient. They do not replan: a dispatched patient keeps its
-reserved cubicle and waits in place until its next target opens (no reservation rollback, no
-fallback rooms).
+### How the baselines differ
+
+All four controllers run in the same mediated environment and are subject to the same closures
+of the wing entrance and corridors: the mediator switches the wing between admission and
+release phases for every controller alike.
+
+The baselines differ from the proposed controller in two ways:
+
+1. **No priority-conditioned access.** A route closed by the mediator is closed for every
+   patient the baseline dispatches, critical or not.
+2. **No reaction to changes during an action.** A baseline patient cannot react to a change of
+   the environment while an action is in progress. It keeps its reserved cubicle and completes
+   the current action first; only then does it observe the new state of the route, and if its
+   next target is closed it waits in place until the target opens. There is no plan
+   invalidation, no reservation rollback, and no fallback room.
+
+The proposed controller, in contrast, compares the world-state version on every update. When
+the version changes and its next action is no longer feasible for that agent, it interrupts the
+action, releases its temporary reservations, clears the outdated plan, and replans. A critical
+agent can therefore plan and walk through a route that is closed for normal-priority patients
+instead of waiting for the closure to end.
 
 ## Main result (16 paired cohorts per load, 448 runs)
 
